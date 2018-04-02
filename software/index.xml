@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Softwares on Victor Hugo Souza</title>
+    <link>https://vhosouza.github.io/software/</link>
+    <description>Recent content in Softwares on Victor Hugo Souza</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018 **Victor Hugo Souza**</copyright>
+    <lastBuildDate>Mon, 02 Apr 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://vhosouza.github.io/software/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>InVesalius Navigator</title>
+      <link>https://vhosouza.github.io/software/invesalius-navigator/</link>
+      <pubDate>Mon, 02 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://vhosouza.github.io/software/invesalius-navigator/</guid>
+      <description>InVesalius Navigator has been has been developed since October, 2008. Is is written in Python 2.7 and several freely available libraries. Moreover, InVesalius Navigator is compatible with several models of spatial tracking devices, such as Polhemus Patriot, Isotrak, Fastrak, and ClaroNav MicronTracker Sx60.
+The functionalities involve the manipulation and editing of medical images from nuclear magnetic resonance, computed tomography and three dimensional scanners. The neuronavigation is performed using a spatial tracking device, which makes it possible to identify in real time the positioning of an object, such as a TMS coil, facilitating, for instance, neurosurgical planning and targeting of internal structures in the brain.</description>
+    </item>
+    
+    <item>
+      <title>Signal Hunter</title>
+      <link>https://vhosouza.github.io/software/signal-hunter/</link>
+      <pubDate>Mon, 02 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://vhosouza.github.io/software/signal-hunter/</guid>
+      <description>Signal Hunter is an open-source and free software developed using MATLAB 2014 (Mathworks, Natick, USA) for electrophysiological signal analysis. Research groups lack software that allows assisted processing and automatic tools to analyze electroencephalography (EEG) and electromyography (EMG) recordings. Therefore, Signal Hunter was created to provide a general graphical environment with basic tools that allow users to easily develop their functions and interfaces.
+The software is hosted on GitHub. The instructions for installation, constribution, and use are described in the GitHub wiki page here.</description>
+    </item>
+    
+  </channel>
+</rss>
