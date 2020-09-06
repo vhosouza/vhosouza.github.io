@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>TMS | Victor Hugo Souza</title>
+    <link>https://vhosouza.github.io/tag/tms/</link>
+      <atom:link href="https://vhosouza.github.io/tag/tms/index.xml" rel="self" type="application/rss+xml" />
+    <description>TMS</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Victor Hugo Souza</copyright><lastBuildDate>Sun, 06 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://vhosouza.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>TMS</title>
+      <link>https://vhosouza.github.io/tag/tms/</link>
+    </image>
+    
+    <item>
+      <title>InVesalius Navigator</title>
+      <link>https://vhosouza.github.io/software/invesalius/</link>
+      <pubDate>Sun, 06 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://vhosouza.github.io/software/invesalius/</guid>
+      <description>&lt;p&gt;Check the InVesalius Navigator publication 
+&lt;a href=&#34;https://vhosouza.github.io/publication/invesalius-navigator/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;InVesalius Navigator&amp;rsquo;s main features are the manipulation, visualization, and editing of medical images from nuclear magnetic resonance, computed tomography, and three dimensional scanners. The neuronavigation is performed using a spatial tracking device, making it possible to identify in real time the positioning of an object, such as a TMS coil, improving the accuracy of neurosurgical planning and brain stimulation methods.&lt;/p&gt;
+&lt;p&gt;The software has been developed since October, 2008 as part of the InVesalius project from the 
+&lt;a href=&#34;https://www.cti.gov.br/en/invesalius&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Renato Archer Information Technology Center&lt;/a&gt; of the Ministry of Science and Technology, Brazil. InVesalius is written in Python 3 and is compatible with several models of spatial tracking devices, such as the 
+&lt;a href=&#34;https://www.ndigital.com/medical/products/polaris-family/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NDI Polaris&lt;/a&gt;, 
+&lt;a href=&#34;https://polhemus.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Polhemus&lt;/a&gt; Patriot, Isotrak, Fastrak, and 
+&lt;a href=&#34;https://www.claronav.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ClaroNav&lt;/a&gt; MicronTracker Sx60.&lt;/p&gt;
+&lt;p&gt;The source code is hosted on 
+&lt;a href=&#34;https://github.com/invesalius/invesalius3&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitHub&lt;/a&gt;. A tutorial on how to use the TMS coil navigation feature can be found in the video below:&lt;/p&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/tobYoDxu6lw&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Motor potential evoked by transcranial magnetic stimulation depends on the placement protocol of recording electrodes: a pilot study</title>
+      <link>https://vhosouza.github.io/publication/tms-electrode-placement/</link>
+      <pubDate>Sat, 20 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://vhosouza.github.io/publication/tms-electrode-placement/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reader response: Insular and anterior cingulate cortex deep stimulation for central neuropathic pain: Disassembling the percept of pain</title>
+      <link>https://vhosouza.github.io/publication/tms-pain/</link>
+      <pubDate>Tue, 21 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://vhosouza.github.io/publication/tms-pain/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Estimulação magnética transcraniana: uma breve revisão dos princípios e aplicações</title>
+      <link>https://vhosouza.github.io/publication/review-tms-brasileira/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://vhosouza.github.io/publication/review-tms-brasileira/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Method to assess the mismatch between the measured and nominal parameters of transcranial magnetic stimulation devices</title>
+      <link>https://vhosouza.github.io/publication/method-mismatch/</link>
+      <pubDate>Sat, 20 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://vhosouza.github.io/publication/method-mismatch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Transcranial magnetic stimulation for neuromodulation of the operculo‐insular cortex in humans</title>
+      <link>https://vhosouza.github.io/publication/tms-insula/</link>
+      <pubDate>Mon, 17 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>https://vhosouza.github.io/publication/tms-insula/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Development and characterization of the InVesalius Navigator software for navigated transcranial magnetic stimulation</title>
+      <link>https://vhosouza.github.io/publication/invesalius-navigator/</link>
+      <pubDate>Fri, 24 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>https://vhosouza.github.io/publication/invesalius-navigator/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lateralized asymmetries in distribution of muscular evoked responses: An evidence of specialized motor control over an intrinsic hand muscle</title>
+      <link>https://vhosouza.github.io/publication/effect-tms-handedness/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>https://vhosouza.github.io/publication/effect-tms-handedness/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Can the recording of motor potentials evoked by transcranial magnetic stimulation be optimized?</title>
+      <link>https://vhosouza.github.io/publication/can-mep-tms/</link>
+      <pubDate>Tue, 15 Aug 2017 00:00:00 +0000</pubDate>
+      <guid>https://vhosouza.github.io/publication/can-mep-tms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effect of TMS coil orientation on the spatial distribution of motor evoked potentials in an intrinsic hand muscle</title>
+      <link>https://vhosouza.github.io/publication/effect-tms-orient/</link>
+      <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
+      <guid>https://vhosouza.github.io/publication/effect-tms-orient/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Can somatosensory electrical stimulation relieve spasticity in post-stroke patients? A TMS pilot study</title>
+      <link>https://vhosouza.github.io/publication/ses-tms-stroke/</link>
+      <pubDate>Fri, 05 May 2017 00:00:00 +0000</pubDate>
+      <guid>https://vhosouza.github.io/publication/ses-tms-stroke/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Inter-institutional protocol describing the use of three-dimensional printing for surgical planning in a patient with childhood epilepsy: From 3D modeling to neuronavigation</title>
+      <link>https://vhosouza.github.io/publication/inter-protocol-3d/</link>
+      <pubDate>Thu, 08 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://vhosouza.github.io/publication/inter-protocol-3d/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Real-time spatial localization system of brains regions for TMS application by co-registration with fMRI</title>
+      <link>https://vhosouza.github.io/publication/spatial-tms-fmri/</link>
+      <pubDate>Thu, 01 Apr 2010 00:00:00 +0000</pubDate>
+      <guid>https://vhosouza.github.io/publication/spatial-tms-fmri/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vector magnetic field mapping of a transcranial magnetic stimulation coil using magnetic resonance imaging: in-vitro and in-vivo experiments</title>
+      <link>https://vhosouza.github.io/publication/vector-mri-tms/</link>
+      <pubDate>Sat, 12 Sep 2009 00:00:00 +0000</pubDate>
+      <guid>https://vhosouza.github.io/publication/vector-mri-tms/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

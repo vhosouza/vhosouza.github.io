@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>J Lindolfo-Almas | Victor Hugo Souza</title>
+    <link>https://vhosouza.github.io/author/j-lindolfo-almas/</link>
+      <atom:link href="https://vhosouza.github.io/author/j-lindolfo-almas/index.xml" rel="self" type="application/rss+xml" />
+    <description>J Lindolfo-Almas</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Victor Hugo Souza</copyright><lastBuildDate>Sat, 20 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://vhosouza.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>J Lindolfo-Almas</title>
+      <link>https://vhosouza.github.io/author/j-lindolfo-almas/</link>
+    </image>
+    
+    <item>
+      <title>Motor potential evoked by transcranial magnetic stimulation depends on the placement protocol of recording electrodes: a pilot study</title>
+      <link>https://vhosouza.github.io/publication/tms-electrode-placement/</link>
+      <pubDate>Sat, 20 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://vhosouza.github.io/publication/tms-electrode-placement/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

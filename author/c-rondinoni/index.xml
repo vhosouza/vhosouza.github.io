@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>C Rondinoni | Victor Hugo Souza</title>
+    <link>https://vhosouza.github.io/author/c-rondinoni/</link>
+      <atom:link href="https://vhosouza.github.io/author/c-rondinoni/index.xml" rel="self" type="application/rss+xml" />
+    <description>C Rondinoni</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Victor Hugo Souza</copyright><lastBuildDate>Tue, 13 Mar 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://vhosouza.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>C Rondinoni</title>
+      <link>https://vhosouza.github.io/author/c-rondinoni/</link>
+    </image>
+    
+    <item>
+      <title>Patient-specific neurosurgical phantom: assessment of visual quality, accuracy, and scaling effects</title>
+      <link>https://vhosouza.github.io/publication/patient-specif-model/</link>
+      <pubDate>Tue, 13 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>https://vhosouza.github.io/publication/patient-specif-model/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Inter-institutional protocol describing the use of three-dimensional printing for surgical planning in a patient with childhood epilepsy: From 3D modeling to neuronavigation</title>
+      <link>https://vhosouza.github.io/publication/inter-protocol-3d/</link>
+      <pubDate>Thu, 08 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://vhosouza.github.io/publication/inter-protocol-3d/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

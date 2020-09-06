@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Brain stimulation | Victor Hugo Souza</title>
+    <link>https://vhosouza.github.io/tag/brain-stimulation/</link>
+      <atom:link href="https://vhosouza.github.io/tag/brain-stimulation/index.xml" rel="self" type="application/rss+xml" />
+    <description>Brain stimulation</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Victor Hugo Souza</copyright><lastBuildDate>Sat, 21 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://vhosouza.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Brain stimulation</title>
+      <link>https://vhosouza.github.io/tag/brain-stimulation/</link>
+    </image>
+    
+    <item>
+      <title>Short-interval intracortical inhibition in human primary motor cortex: A multi-locus transcranial magnetic stimulation study</title>
+      <link>https://vhosouza.github.io/publication/sici-mtms-lateral/</link>
+      <pubDate>Sat, 21 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://vhosouza.github.io/publication/sici-mtms-lateral/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Estimulação magnética transcraniana: uma breve revisão dos princípios e aplicações</title>
+      <link>https://vhosouza.github.io/publication/review-tms-brasileira/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://vhosouza.github.io/publication/review-tms-brasileira/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Transcranial magnetic stimulation for neuromodulation of the operculo‐insular cortex in humans</title>
+      <link>https://vhosouza.github.io/publication/tms-insula/</link>
+      <pubDate>Mon, 17 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>https://vhosouza.github.io/publication/tms-insula/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Development and characterization of the InVesalius Navigator software for navigated transcranial magnetic stimulation</title>
+      <link>https://vhosouza.github.io/publication/invesalius-navigator/</link>
+      <pubDate>Fri, 24 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>https://vhosouza.github.io/publication/invesalius-navigator/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Can the recording of motor potentials evoked by transcranial magnetic stimulation be optimized?</title>
+      <link>https://vhosouza.github.io/publication/can-mep-tms/</link>
+      <pubDate>Tue, 15 Aug 2017 00:00:00 +0000</pubDate>
+      <guid>https://vhosouza.github.io/publication/can-mep-tms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Can somatosensory electrical stimulation relieve spasticity in post-stroke patients? A TMS pilot study</title>
+      <link>https://vhosouza.github.io/publication/ses-tms-stroke/</link>
+      <pubDate>Fri, 05 May 2017 00:00:00 +0000</pubDate>
+      <guid>https://vhosouza.github.io/publication/ses-tms-stroke/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Inter-institutional protocol describing the use of three-dimensional printing for surgical planning in a patient with childhood epilepsy: From 3D modeling to neuronavigation</title>
+      <link>https://vhosouza.github.io/publication/inter-protocol-3d/</link>
+      <pubDate>Thu, 08 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://vhosouza.github.io/publication/inter-protocol-3d/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Real-time spatial localization system of brains regions for TMS application by co-registration with fMRI</title>
+      <link>https://vhosouza.github.io/publication/spatial-tms-fmri/</link>
+      <pubDate>Thu, 01 Apr 2010 00:00:00 +0000</pubDate>
+      <guid>https://vhosouza.github.io/publication/spatial-tms-fmri/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vector magnetic field mapping of a transcranial magnetic stimulation coil using magnetic resonance imaging: in-vitro and in-vivo experiments</title>
+      <link>https://vhosouza.github.io/publication/vector-mri-tms/</link>
+      <pubDate>Sat, 12 Sep 2009 00:00:00 +0000</pubDate>
+      <guid>https://vhosouza.github.io/publication/vector-mri-tms/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

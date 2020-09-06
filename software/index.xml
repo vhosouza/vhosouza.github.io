@@ -1,35 +1,57 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Softwares on Victor Hugo Souza</title>
+    <title>Softwares | Victor Hugo Souza</title>
     <link>https://vhosouza.github.io/software/</link>
-    <description>Recent content in Softwares on Victor Hugo Souza</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2018 **Victor Hugo Souza**</copyright>
-    <lastBuildDate>Mon, 02 Apr 2018 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://vhosouza.github.io/software/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="https://vhosouza.github.io/software/index.xml" rel="self" type="application/rss+xml" />
+    <description>Softwares</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Victor Hugo Souza</copyright><lastBuildDate>Sun, 06 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://vhosouza.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Softwares</title>
+      <link>https://vhosouza.github.io/software/</link>
+    </image>
     
     <item>
       <title>InVesalius Navigator</title>
-      <link>https://vhosouza.github.io/software/invesalius-navigator/</link>
-      <pubDate>Mon, 02 Apr 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://vhosouza.github.io/software/invesalius-navigator/</guid>
-      <description>InVesalius Navigator has been has been developed since October, 2008. Is is written in Python 2.7 and several freely available libraries. Moreover, InVesalius Navigator is compatible with several models of spatial tracking devices, such as Polhemus Patriot, Isotrak, Fastrak, and ClaroNav MicronTracker Sx60.
-The functionalities involve the manipulation and editing of medical images from nuclear magnetic resonance, computed tomography and three dimensional scanners. The neuronavigation is performed using a spatial tracking device, which makes it possible to identify in real time the positioning of an object, such as a TMS coil, facilitating, for instance, neurosurgical planning and targeting of internal structures in the brain.</description>
+      <link>https://vhosouza.github.io/software/invesalius/</link>
+      <pubDate>Sun, 06 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://vhosouza.github.io/software/invesalius/</guid>
+      <description>&lt;p&gt;Check the InVesalius Navigator publication 
+&lt;a href=&#34;https://vhosouza.github.io/publication/invesalius-navigator/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;InVesalius Navigator&amp;rsquo;s main features are the manipulation, visualization, and editing of medical images from nuclear magnetic resonance, computed tomography, and three dimensional scanners. The neuronavigation is performed using a spatial tracking device, making it possible to identify in real time the positioning of an object, such as a TMS coil, improving the accuracy of neurosurgical planning and brain stimulation methods.&lt;/p&gt;
+&lt;p&gt;The software has been developed since October, 2008 as part of the InVesalius project from the 
+&lt;a href=&#34;https://www.cti.gov.br/en/invesalius&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Renato Archer Information Technology Center&lt;/a&gt; of the Ministry of Science and Technology, Brazil. InVesalius is written in Python 3 and is compatible with several models of spatial tracking devices, such as the 
+&lt;a href=&#34;https://www.ndigital.com/medical/products/polaris-family/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NDI Polaris&lt;/a&gt;, 
+&lt;a href=&#34;https://polhemus.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Polhemus&lt;/a&gt; Patriot, Isotrak, Fastrak, and 
+&lt;a href=&#34;https://www.claronav.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ClaroNav&lt;/a&gt; MicronTracker Sx60.&lt;/p&gt;
+&lt;p&gt;The source code is hosted on 
+&lt;a href=&#34;https://github.com/invesalius/invesalius3&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitHub&lt;/a&gt;. A tutorial on how to use the TMS coil navigation feature can be found in the video below:&lt;/p&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/tobYoDxu6lw&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+</description>
     </item>
     
     <item>
       <title>Signal Hunter</title>
-      <link>https://vhosouza.github.io/software/signal-hunter/</link>
-      <pubDate>Mon, 02 Apr 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://vhosouza.github.io/software/signal-hunter/</guid>
-      <description>Signal Hunter is an open-source and free software developed using MATLAB 2014 (Mathworks, Natick, USA) for electrophysiological signal analysis. Research groups lack software that allows assisted processing and automatic tools to analyze electroencephalography (EEG) and electromyography (EMG) recordings. Therefore, Signal Hunter was created to provide a general graphical environment with basic tools that allow users to easily develop their functions and interfaces.
-The software is hosted on GitHub. The instructions for installation, constribution, and use are described in the GitHub wiki page here.</description>
+      <link>https://vhosouza.github.io/software/signalhunter/</link>
+      <pubDate>Sun, 06 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://vhosouza.github.io/software/signalhunter/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Signal Hunter&lt;/strong&gt; is an open-source and free software developed using MATLAB 2014 (Mathworks, Natick, USA) for electrophysiological signal analysis. Research groups lack software that allows assisted processing and automatic tools to analyze electroencephalography (EEG) and electromyography (EMG) recordings. Therefore, Signal Hunter was created to provide a general graphical environment with basic tools that allow users to easily develop their functions and interfaces.&lt;/p&gt;
+&lt;p&gt;The software is hosted on 
+&lt;a href=&#34;https://github.com/biomaglab/signalhunter&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitHub&lt;/a&gt;. The instructions for installation, constribution, and use are described in the GitHub wiki page 
+&lt;a href=&#34;https://github.com/biomaglab/signalhunter/wiki&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The Signal Hunter has an intuitive user interface for semi-automatic signal processing.&lt;/p&gt;
+&lt;p&gt;Below, an example of motor evoked potentials by TMS in multiple sessions.&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://github.com/biomaglab/signalhunter/wiki/Screenshots&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;https://vhosouza.github.io/media/signal-hunter-mep.png&#34; alt=&#34;Screenshot&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;and with full EMG recording and potentials splited into epochs:&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://github.com/biomaglab/signalhunter/wiki/Screenshots&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;https://vhosouza.github.io/media/signal-hunter-epochs.png&#34; alt=&#34;Screenshot&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
   </channel>

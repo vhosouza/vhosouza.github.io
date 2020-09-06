@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>JO Nieminen | Victor Hugo Souza</title>
+    <link>https://vhosouza.github.io/author/jo-nieminen/</link>
+      <atom:link href="https://vhosouza.github.io/author/jo-nieminen/index.xml" rel="self" type="application/rss+xml" />
+    <description>JO Nieminen</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Victor Hugo Souza</copyright><lastBuildDate>Sat, 21 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://vhosouza.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>JO Nieminen</title>
+      <link>https://vhosouza.github.io/author/jo-nieminen/</link>
+    </image>
+    
+    <item>
+      <title>Short-interval intracortical inhibition in human primary motor cortex: A multi-locus transcranial magnetic stimulation study</title>
+      <link>https://vhosouza.github.io/publication/sici-mtms-lateral/</link>
+      <pubDate>Sat, 21 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://vhosouza.github.io/publication/sici-mtms-lateral/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,448 +1,625 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
-    
-    
-    <url>
-    
-      <loc>https://vhosouza.github.io/temp/cv/</loc>
-    </url>
-    
+  <url>
+    <loc>https://vhosouza.github.io/courses/example/example1/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://vhosouza.github.io/publications/publications/</loc>
-      <lastmod>2016-04-20T00:00:00+03:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://vhosouza.github.io/courses/example/</loc>
+    <lastmod>2018-09-09T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://vhosouza.github.io/softwares/projects/</loc>
-      <lastmod>2016-04-20T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://vhosouza.github.io/courses/example/example2/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://vhosouza.github.io/publication/sici-mtms-lateral/</loc>
-      <lastmod>2019-09-21T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://vhosouza.github.io/talk/example/</loc>
+    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://vhosouza.github.io/publication/review-tms-brasileira/</loc>
-      <lastmod>2019-09-01T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://vhosouza.github.io/talk/</loc>
+    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://vhosouza.github.io/publication/method-mismatch/</loc>
-      <lastmod>2019-04-20T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://vhosouza.github.io/</loc>
+    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://vhosouza.github.io/publication/tms-insula/</loc>
-      <lastmod>2018-12-17T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://vhosouza.github.io/contact/</loc>
+    <lastmod>2020-09-06T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://vhosouza.github.io/publication/invesalius-navigator/</loc>
-      <lastmod>2018-08-24T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://vhosouza.github.io/tag/electromyography/</loc>
+    <lastmod>2020-09-06T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://vhosouza.github.io/software/invesalius-navigator/</loc>
-      <lastmod>2018-04-02T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://vhosouza.github.io/experience/</loc>
+    <lastmod>2020-09-06T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://vhosouza.github.io/software/signal-hunter/</loc>
-      <lastmod>2018-04-02T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://vhosouza.github.io/software/invesalius/</loc>
+    <lastmod>2020-09-06T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://vhosouza.github.io/publications/</loc>
-      <lastmod>2018-04-02T00:00:00+03:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://vhosouza.github.io/tag/motor-evoked-potential/</loc>
+    <lastmod>2020-09-06T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://vhosouza.github.io/softwares/</loc>
-      <lastmod>2018-04-02T00:00:00+03:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://vhosouza.github.io/tag/neuronavigation/</loc>
+    <lastmod>2020-09-06T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://vhosouza.github.io/publication/effect-tms-handedness/</loc>
-      <lastmod>2018-04-01T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://vhosouza.github.io/software/signalhunter/</loc>
+    <lastmod>2020-09-06T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://vhosouza.github.io/publication/patient-specif-model/</loc>
-      <lastmod>2018-03-13T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://vhosouza.github.io/tag/signal-processing/</loc>
+    <lastmod>2020-09-06T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://vhosouza.github.io/publication/can-mep-tms/</loc>
-      <lastmod>2017-08-15T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://vhosouza.github.io/software/</loc>
+    <lastmod>2020-09-06T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://vhosouza.github.io/publication/effect-tms-orient/</loc>
-      <lastmod>2017-08-10T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://vhosouza.github.io/tags/</loc>
+    <lastmod>2020-09-06T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://vhosouza.github.io/publication/ses-tms-stroke/</loc>
-      <lastmod>2017-05-05T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://vhosouza.github.io/tag/tms/</loc>
+    <lastmod>2020-09-06T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://vhosouza.github.io/tags/academic/</loc>
-      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://vhosouza.github.io/thanks/</loc>
+    <lastmod>2020-09-06T00:00:00+01:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://vhosouza.github.io/publication/</loc>
-      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://vhosouza.github.io/publication-type/2/</loc>
+    <lastmod>2020-06-20T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://vhosouza.github.io/talk/</loc>
-      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://vhosouza.github.io/author/aa-nogueira-campos/</loc>
+    <lastmod>2020-06-20T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://vhosouza.github.io/talk/example-talk/</loc>
-      <lastmod>2017-01-01T00:00:00+02:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://vhosouza.github.io/authors/</loc>
+    <lastmod>2020-06-20T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://vhosouza.github.io/post/</loc>
-      <lastmod>2017-01-01T00:00:00+02:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://vhosouza.github.io/tag/electrode-placement/</loc>
+    <lastmod>2020-06-20T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://vhosouza.github.io/project/deep-learning/</loc>
-      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://vhosouza.github.io/author/j-lindolfo-almas/</loc>
+    <lastmod>2020-06-20T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://vhosouza.github.io/project/example-external-project/</loc>
-      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://vhosouza.github.io/author/mac-garcia/</loc>
+    <lastmod>2020-06-20T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://vhosouza.github.io/post/getting-started/</loc>
-      <lastmod>2018-01-13T00:00:00+02:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://vhosouza.github.io/tag/mep/</loc>
+    <lastmod>2020-06-20T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://vhosouza.github.io/getting-started/</loc>
-      <lastmod>2018-01-13T00:00:00+02:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://vhosouza.github.io/publication/tms-electrode-placement/</loc>
+    <lastmod>2020-06-20T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://vhosouza.github.io/publication/inter-protocol-3d/</loc>
-      <lastmod>2015-01-08T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://vhosouza.github.io/publication_types/</loc>
+    <lastmod>2020-06-20T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://vhosouza.github.io/post/my-first-post/</loc>
-      <lastmod>2018-01-13T00:00:00+02:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://vhosouza.github.io/publication/</loc>
+    <lastmod>2020-06-20T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://vhosouza.github.io/post/vivamus-lacus-mauris/</loc>
-      <lastmod>2018-01-13T00:00:00+02:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://vhosouza.github.io/author/rh-matsuda/</loc>
+    <lastmod>2020-06-20T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://vhosouza.github.io/publication/spatial-tms-fmri/</loc>
-      <lastmod>2010-04-01T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://vhosouza.github.io/author/victor-hugo-souza/</loc>
+    <lastmod>2020-06-20T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://vhosouza.github.io/publication/vector-mri-tms/</loc>
-      <lastmod>2009-09-12T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://vhosouza.github.io/tag/insular-cortex/</loc>
+    <lastmod>2020-04-21T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://vhosouza.github.io/publication_types/1/</loc>
-      <lastmod>2015-01-08T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://vhosouza.github.io/author/j-zugaib/</loc>
+    <lastmod>2020-04-21T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://vhosouza.github.io/publication_types/2/</loc>
-      <lastmod>2019-09-21T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://vhosouza.github.io/author/jr-camatti/</loc>
+    <lastmod>2020-04-21T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://vhosouza.github.io/categories/</loc>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://vhosouza.github.io/tag/neuropathic-pain/</loc>
+    <lastmod>2020-04-21T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://vhosouza.github.io/tags/data-analysis/</loc>
-      <lastmod>2018-04-02T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://vhosouza.github.io/tag/pain/</loc>
+    <lastmod>2020-04-21T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://vhosouza.github.io/tags/deep-learning/</loc>
-      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://vhosouza.github.io/publication/tms-pain/</loc>
+    <lastmod>2020-04-21T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://vhosouza.github.io/tags/demo/</loc>
-      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://vhosouza.github.io/tag/repetitive-tms/</loc>
+    <lastmod>2020-04-21T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://vhosouza.github.io/tags/electrophysiology/</loc>
-      <lastmod>2018-04-02T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://vhosouza.github.io/tag/handheld-dynamometers/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://vhosouza.github.io/tags/emg/</loc>
-      <lastmod>2018-04-02T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://vhosouza.github.io/tag/muscle-force/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://vhosouza.github.io/tags/neuronavigation/</loc>
-      <lastmod>2018-04-02T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://vhosouza.github.io/publication/unstandardized-dynamometer/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://vhosouza.github.io/project/</loc>
-      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://vhosouza.github.io/tag/brain-stimulation/</loc>
+    <lastmod>2019-09-21T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://vhosouza.github.io/publication_types/</loc>
-      <lastmod>2015-01-08T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://vhosouza.github.io/author/jo-nieminen/</loc>
+    <lastmod>2019-09-21T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://vhosouza.github.io/software/</loc>
-      <lastmod>2018-04-02T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://vhosouza.github.io/author/lm-koponen/</loc>
+    <lastmod>2019-09-21T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://vhosouza.github.io/tags/</loc>
-      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://vhosouza.github.io/author/m-stenroos/</loc>
+    <lastmod>2019-09-21T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://vhosouza.github.io/temp/</loc>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://vhosouza.github.io/tag/multi-locus-tms/</loc>
+    <lastmod>2019-09-21T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://vhosouza.github.io/thanks/</loc>
-    </url>
-    
+  <url>
+    <loc>https://vhosouza.github.io/author/n-makela/</loc>
+    <lastmod>2019-09-21T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://vhosouza.github.io/tags/tms/</loc>
-      <lastmod>2018-04-02T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://vhosouza.github.io/tag/paired-pulse-tms/</loc>
+    <lastmod>2019-09-21T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://vhosouza.github.io/</loc>
-      <lastmod>2017-10-15T00:00:00+03:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://vhosouza.github.io/author/rj-ilmoniemi/</loc>
+    <lastmod>2019-09-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vhosouza.github.io/publication/sici-mtms-lateral/</loc>
+    <lastmod>2019-09-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vhosouza.github.io/tag/short-intracortical-inhibition/</loc>
+    <lastmod>2019-09-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vhosouza.github.io/author/co-guimaraes/</loc>
+    <lastmod>2019-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vhosouza.github.io/publication/review-tms-brasileira/</loc>
+    <lastmod>2019-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vhosouza.github.io/author/gp-tardelli/</loc>
+    <lastmod>2019-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vhosouza.github.io/author/o-baffa/</loc>
+    <lastmod>2019-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vhosouza.github.io/author/vh-souza/</loc>
+    <lastmod>2019-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vhosouza.github.io/post/</loc>
+    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vhosouza.github.io/post/writing-technical-content/</loc>
+    <lastmod>2019-07-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vhosouza.github.io/courses/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vhosouza.github.io/author/ab-conforto/</loc>
+    <lastmod>2019-04-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vhosouza.github.io/author/asc-peres/</loc>
+    <lastmod>2019-04-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vhosouza.github.io/tag/calibration/</loc>
+    <lastmod>2019-04-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vhosouza.github.io/author/lr-zacharias/</loc>
+    <lastmod>2019-04-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vhosouza.github.io/publication/method-mismatch/</loc>
+    <lastmod>2019-04-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vhosouza.github.io/post/jupyter/</loc>
+    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vhosouza.github.io/slides/</loc>
+    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vhosouza.github.io/slides/example/</loc>
+    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vhosouza.github.io/tag/operculo-insular-cortex/</loc>
+    <lastmod>2018-12-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vhosouza.github.io/publication/tms-insula/</loc>
+    <lastmod>2018-12-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vhosouza.github.io/publication/invesalius-navigator/</loc>
+    <lastmod>2018-08-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vhosouza.github.io/author/jvl-silva/</loc>
+    <lastmod>2018-08-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vhosouza.github.io/author/phj-amorim/</loc>
+    <lastmod>2018-08-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vhosouza.github.io/author/tf-moraes/</loc>
+    <lastmod>2018-08-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vhosouza.github.io/tag/handedness/</loc>
+    <lastmod>2018-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vhosouza.github.io/tag/high-density-emg/</loc>
+    <lastmod>2018-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vhosouza.github.io/publication/effect-tms-handedness/</loc>
+    <lastmod>2018-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vhosouza.github.io/tag/motor-control/</loc>
+    <lastmod>2018-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vhosouza.github.io/tag/3d-printing/</loc>
+    <lastmod>2018-03-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vhosouza.github.io/author/aao-carneiro/</loc>
+    <lastmod>2018-03-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vhosouza.github.io/author/c-rondinoni/</loc>
+    <lastmod>2018-03-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vhosouza.github.io/author/fw-grillo/</loc>
+    <lastmod>2018-03-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vhosouza.github.io/author/hr-machado/</loc>
+    <lastmod>2018-03-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vhosouza.github.io/tag/multimodal-modeling/</loc>
+    <lastmod>2018-03-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vhosouza.github.io/publication/patient-specif-model/</loc>
+    <lastmod>2018-03-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vhosouza.github.io/tag/surgical-planning/</loc>
+    <lastmod>2018-03-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vhosouza.github.io/author/tz-pavan/</loc>
+    <lastmod>2018-03-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vhosouza.github.io/publication/can-mep-tms/</loc>
+    <lastmod>2017-08-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vhosouza.github.io/author/cd-vargas/</loc>
+    <lastmod>2017-08-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vhosouza.github.io/tag/coil-orientation/</loc>
+    <lastmod>2017-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vhosouza.github.io/publication/effect-tms-orient/</loc>
+    <lastmod>2017-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vhosouza.github.io/author/tm-vieira/</loc>
+    <lastmod>2017-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vhosouza.github.io/publication/ses-tms-stroke/</loc>
+    <lastmod>2017-05-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vhosouza.github.io/author/db-de-araujo/</loc>
+    <lastmod>2017-05-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vhosouza.github.io/tag/electrical-stimulation/</loc>
+    <lastmod>2017-05-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vhosouza.github.io/author/jmy-catunda/</loc>
+    <lastmod>2017-05-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vhosouza.github.io/author/jp-leite/</loc>
+    <lastmod>2017-05-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vhosouza.github.io/author/kc-mazzeto-betti/</loc>
+    <lastmod>2017-05-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vhosouza.github.io/author/om-pontes-neto/</loc>
+    <lastmod>2017-05-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vhosouza.github.io/tag/stroke/</loc>
+    <lastmod>2017-05-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vhosouza.github.io/author/teg-santos-pontelli/</loc>
+    <lastmod>2017-05-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vhosouza.github.io/tag/deep-learning/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vhosouza.github.io/tag/demo/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vhosouza.github.io/project/external-project/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vhosouza.github.io/project/internal-project/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vhosouza.github.io/project/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vhosouza.github.io/tag/academic/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vhosouza.github.io/post/getting-started/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vhosouza.github.io/categories/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vhosouza.github.io/category/demo/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vhosouza.github.io/author/%E5%90%B3%E6%81%A9%E9%81%94/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vhosouza.github.io/tag/%E5%BC%80%E6%BA%90/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vhosouza.github.io/category/%E6%95%99%E7%A8%8B/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vhosouza.github.io/publication-type/1/</loc>
+    <lastmod>2015-01-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vhosouza.github.io/author/ac-dos-santos/</loc>
+    <lastmod>2015-01-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vhosouza.github.io/publication/inter-protocol-3d/</loc>
+    <lastmod>2015-01-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vhosouza.github.io/author/mv-santos/</loc>
+    <lastmod>2015-01-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vhosouza.github.io/author/py-noritomi/</loc>
+    <lastmod>2015-01-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vhosouza.github.io/author/rm-hiroshi/</loc>
+    <lastmod>2015-01-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vhosouza.github.io/author/ceg-salmon/</loc>
+    <lastmod>2010-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vhosouza.github.io/author/em-rodrigues/</loc>
+    <lastmod>2010-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vhosouza.github.io/publication/spatial-tms-fmri/</loc>
+    <lastmod>2010-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vhosouza.github.io/author/d-maziero/</loc>
+    <lastmod>2009-09-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vhosouza.github.io/tag/magnetic-field-mapping/</loc>
+    <lastmod>2009-09-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vhosouza.github.io/tag/magnetic-resonance-imaging/</loc>
+    <lastmod>2009-09-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vhosouza.github.io/publication/vector-mri-tms/</loc>
+    <lastmod>2009-09-12T00:00:00+00:00</lastmod>
+  </url>
   
 </urlset>

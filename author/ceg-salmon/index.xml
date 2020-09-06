@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CEG Salmon | Victor Hugo Souza</title>
+    <link>https://vhosouza.github.io/author/ceg-salmon/</link>
+      <atom:link href="https://vhosouza.github.io/author/ceg-salmon/index.xml" rel="self" type="application/rss+xml" />
+    <description>CEG Salmon</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Victor Hugo Souza</copyright><lastBuildDate>Thu, 01 Apr 2010 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://vhosouza.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>CEG Salmon</title>
+      <link>https://vhosouza.github.io/author/ceg-salmon/</link>
+    </image>
+    
+    <item>
+      <title>Real-time spatial localization system of brains regions for TMS application by co-registration with fMRI</title>
+      <link>https://vhosouza.github.io/publication/spatial-tms-fmri/</link>
+      <pubDate>Thu, 01 Apr 2010 00:00:00 +0000</pubDate>
+      <guid>https://vhosouza.github.io/publication/spatial-tms-fmri/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vector magnetic field mapping of a transcranial magnetic stimulation coil using magnetic resonance imaging: in-vitro and in-vivo experiments</title>
+      <link>https://vhosouza.github.io/publication/vector-mri-tms/</link>
+      <pubDate>Sat, 12 Sep 2009 00:00:00 +0000</pubDate>
+      <guid>https://vhosouza.github.io/publication/vector-mri-tms/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
