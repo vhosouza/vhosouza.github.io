@@ -24,7 +24,37 @@
   
   <url>
     <loc>https://vhosouza.github.io/</loc>
-    <lastmod>2020-09-06T13:31:10+03:00</lastmod>
+    <lastmod>2020-09-21T00:23:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vhosouza.github.io/authors/</loc>
+    <lastmod>2020-09-21T00:23:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vhosouza.github.io/categories/</loc>
+    <lastmod>2020-09-21T00:23:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vhosouza.github.io/category/general/</loc>
+    <lastmod>2020-09-21T00:23:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vhosouza.github.io/tags/</loc>
+    <lastmod>2020-09-21T00:23:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vhosouza.github.io/tag/test/</loc>
+    <lastmod>2020-09-21T00:23:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vhosouza.github.io/post/the-test/</loc>
+    <lastmod>2020-09-21T00:23:00+00:00</lastmod>
   </url>
   
   <url>
@@ -73,11 +103,6 @@
   </url>
   
   <url>
-    <loc>https://vhosouza.github.io/tags/</loc>
-    <lastmod>2020-09-06T13:31:10+03:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://vhosouza.github.io/tag/tms/</loc>
     <lastmod>2020-09-06T13:31:10+03:00</lastmod>
   </url>
@@ -94,11 +119,6 @@
   
   <url>
     <loc>https://vhosouza.github.io/author/aa-nogueira-campos/</loc>
-    <lastmod>2020-09-06T13:31:10+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://vhosouza.github.io/authors/</loc>
     <lastmod>2020-09-06T13:31:10+03:00</lastmod>
   </url>
   
@@ -553,12 +573,13 @@
   </url>
   
   <url>
-    <loc>https://vhosouza.github.io/categories/</loc>
+    <loc>https://vhosouza.github.io/courses/</loc>
+    <lastmod>2020-08-16T13:06:37+03:00</lastmod>
   </url>
   
   <url>
-    <loc>https://vhosouza.github.io/courses/</loc>
-    <lastmod>2020-08-16T13:06:37+03:00</lastmod>
+    <loc>https://vhosouza.github.io/post/</loc>
+    <lastmod>2020-09-06T17:34:00+03:00</lastmod>
   </url>
   
   <url>
@@ -573,7 +594,7 @@
   
   <url>
     <loc>https://vhosouza.github.io/author/victor-hugo-souza/</loc>
-    <lastmod>2020-08-16T13:06:37+03:00</lastmod>
+    <lastmod>2020-09-06T18:38:58+03:00</lastmod>
   </url>
   
 </urlset>
