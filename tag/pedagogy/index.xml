@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Victor Hugo Souza</title>
-    <link>https://vhosouza.github.io/author/victor-hugo-souza/</link>
-      <atom:link href="https://vhosouza.github.io/author/victor-hugo-souza/index.xml" rel="self" type="application/rss+xml" />
-    <description>Victor Hugo Souza</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Victor Hugo Souza</copyright>
+    <title>Pedagogy | Victor Hugo Souza</title>
+    <link>https://vhosouza.github.io/tag/pedagogy/</link>
+      <atom:link href="https://vhosouza.github.io/tag/pedagogy/index.xml" rel="self" type="application/rss+xml" />
+    <description>Pedagogy</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Victor Hugo Souza</copyright><lastBuildDate>Fri, 09 Oct 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://vhosouza.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
-      <title>Victor Hugo Souza</title>
-      <link>https://vhosouza.github.io/author/victor-hugo-souza/</link>
+      <title>Pedagogy</title>
+      <link>https://vhosouza.github.io/tag/pedagogy/</link>
     </image>
     
     <item>
@@ -158,135 +158,6 @@
 &lt;/ol&gt;
 &lt;/section&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>The test post</title>
-      <link>https://vhosouza.github.io/post/the-test/</link>
-      <pubDate>Mon, 21 Sep 2020 00:23:00 +0000</pubDate>
-      <guid>https://vhosouza.github.io/post/the-test/</guid>
-      <description>&lt;p&gt;I hope to be able to create informative and helpful posts soon. I added this first post to the ONL202 category as part of the activities for the Open Networked Learning course starting on September 2020.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Motor potential evoked by transcranial magnetic stimulation depends on the placement protocol of recording electrodes: a pilot study</title>
-      <link>https://vhosouza.github.io/publication/tms-electrode-placement/</link>
-      <pubDate>Sat, 20 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>https://vhosouza.github.io/publication/tms-electrode-placement/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Reader response: Insular and anterior cingulate cortex deep stimulation for central neuropathic pain: Disassembling the percept of pain</title>
-      <link>https://vhosouza.github.io/publication/tms-pain/</link>
-      <pubDate>Tue, 21 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>https://vhosouza.github.io/publication/tms-pain/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>The (un)standardized use of handheld dynamometers on the evaluation of muscle force output</title>
-      <link>https://vhosouza.github.io/publication/unstandardized-dynamometer/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://vhosouza.github.io/publication/unstandardized-dynamometer/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Short-interval intracortical inhibition in human primary motor cortex: A multi-locus transcranial magnetic stimulation study</title>
-      <link>https://vhosouza.github.io/publication/sici-mtms-lateral/</link>
-      <pubDate>Sat, 21 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://vhosouza.github.io/publication/sici-mtms-lateral/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Method to assess the mismatch between the measured and nominal parameters of transcranial magnetic stimulation devices</title>
-      <link>https://vhosouza.github.io/publication/method-mismatch/</link>
-      <pubDate>Sat, 20 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>https://vhosouza.github.io/publication/method-mismatch/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Transcranial magnetic stimulation for neuromodulation of the operculo‐insular cortex in humans</title>
-      <link>https://vhosouza.github.io/publication/tms-insula/</link>
-      <pubDate>Mon, 17 Dec 2018 00:00:00 +0000</pubDate>
-      <guid>https://vhosouza.github.io/publication/tms-insula/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Development and characterization of the InVesalius Navigator software for navigated transcranial magnetic stimulation</title>
-      <link>https://vhosouza.github.io/publication/invesalius-navigator/</link>
-      <pubDate>Fri, 24 Aug 2018 00:00:00 +0000</pubDate>
-      <guid>https://vhosouza.github.io/publication/invesalius-navigator/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Lateralized asymmetries in distribution of muscular evoked responses: An evidence of specialized motor control over an intrinsic hand muscle</title>
-      <link>https://vhosouza.github.io/publication/effect-tms-handedness/</link>
-      <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
-      <guid>https://vhosouza.github.io/publication/effect-tms-handedness/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Patient-specific neurosurgical phantom: assessment of visual quality, accuracy, and scaling effects</title>
-      <link>https://vhosouza.github.io/publication/patient-specif-model/</link>
-      <pubDate>Tue, 13 Mar 2018 00:00:00 +0000</pubDate>
-      <guid>https://vhosouza.github.io/publication/patient-specif-model/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Can the recording of motor potentials evoked by transcranial magnetic stimulation be optimized?</title>
-      <link>https://vhosouza.github.io/publication/can-mep-tms/</link>
-      <pubDate>Tue, 15 Aug 2017 00:00:00 +0000</pubDate>
-      <guid>https://vhosouza.github.io/publication/can-mep-tms/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Effect of TMS coil orientation on the spatial distribution of motor evoked potentials in an intrinsic hand muscle</title>
-      <link>https://vhosouza.github.io/publication/effect-tms-orient/</link>
-      <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
-      <guid>https://vhosouza.github.io/publication/effect-tms-orient/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Can somatosensory electrical stimulation relieve spasticity in post-stroke patients? A TMS pilot study</title>
-      <link>https://vhosouza.github.io/publication/ses-tms-stroke/</link>
-      <pubDate>Fri, 05 May 2017 00:00:00 +0000</pubDate>
-      <guid>https://vhosouza.github.io/publication/ses-tms-stroke/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Inter-institutional protocol describing the use of three-dimensional printing for surgical planning in a patient with childhood epilepsy: From 3D modeling to neuronavigation</title>
-      <link>https://vhosouza.github.io/publication/inter-protocol-3d/</link>
-      <pubDate>Thu, 08 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>https://vhosouza.github.io/publication/inter-protocol-3d/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Real-time spatial localization system of brains regions for TMS application by co-registration with fMRI</title>
-      <link>https://vhosouza.github.io/publication/spatial-tms-fmri/</link>
-      <pubDate>Thu, 01 Apr 2010 00:00:00 +0000</pubDate>
-      <guid>https://vhosouza.github.io/publication/spatial-tms-fmri/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Vector magnetic field mapping of a transcranial magnetic stimulation coil using magnetic resonance imaging: in-vitro and in-vivo experiments</title>
-      <link>https://vhosouza.github.io/publication/vector-mri-tms/</link>
-      <pubDate>Sat, 12 Sep 2009 00:00:00 +0000</pubDate>
-      <guid>https://vhosouza.github.io/publication/vector-mri-tms/</guid>
-      <description></description>
     </item>
     
   </channel>
