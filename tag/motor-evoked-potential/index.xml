@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Motor evoked potential | Victor Hugo Souza</title>
+    <title>Motor evoked potential | Victor H. Souza</title>
     <link>https://vhosouza.github.io/tag/motor-evoked-potential/</link>
       <atom:link href="https://vhosouza.github.io/tag/motor-evoked-potential/index.xml" rel="self" type="application/rss+xml" />
     <description>Motor evoked potential</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Victor Hugo Souza</copyright><lastBuildDate>Sun, 06 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 06 Sep 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://vhosouza.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://vhosouza.github.io/media/icon_hu8d7500d2420c0000b894f0459714a4ed_123720_512x512_fill_lanczos_center_3.png</url>
       <title>Motor evoked potential</title>
       <link>https://vhosouza.github.io/tag/motor-evoked-potential/</link>
     </image>
@@ -18,16 +18,52 @@
       <pubDate>Sun, 06 Sep 2020 00:00:00 +0000</pubDate>
       <guid>https://vhosouza.github.io/software/signalhunter/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Signal Hunter&lt;/strong&gt; is an open-source and free software developed using MATLAB 2014 (Mathworks, Natick, USA) for electrophysiological signal analysis. Research groups lack software that allows assisted processing and automatic tools to analyze electroencephalography (EEG) and electromyography (EMG) recordings. Therefore, Signal Hunter was created to provide a general graphical environment with basic tools that allow users to easily develop their functions and interfaces.&lt;/p&gt;
-&lt;p&gt;The software is hosted on 
-&lt;a href=&#34;https://github.com/biomaglab/signalhunter&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitHub&lt;/a&gt;. The instructions for installation, constribution, and use are described in the GitHub wiki page 
-&lt;a href=&#34;https://github.com/biomaglab/signalhunter/wiki&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The software is hosted on &lt;a href=&#34;https://github.com/biomaglab/signalhunter&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitHub&lt;/a&gt;. The instructions for installation, constribution, and use are described in the GitHub wiki page &lt;a href=&#34;https://github.com/biomaglab/signalhunter/wiki&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;The Signal Hunter has an intuitive user interface for semi-automatic signal processing.&lt;/p&gt;
 &lt;p&gt;Below, an example of motor evoked potentials by TMS in multiple sessions.&lt;/p&gt;
-&lt;p&gt;
-&lt;a href=&#34;https://github.com/biomaglab/signalhunter/wiki/Screenshots&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;https://vhosouza.github.io/media/signal-hunter-mep.png&#34; alt=&#34;Screenshot&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/biomaglab/signalhunter/wiki/Screenshots&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://vhosouza.github.io/media/signal-hunter-mep.png&#34; alt=&#34;Screenshot&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;and with full EMG recording and potentials splited into epochs:&lt;/p&gt;
-&lt;p&gt;
-&lt;a href=&#34;https://github.com/biomaglab/signalhunter/wiki/Screenshots&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;https://vhosouza.github.io/media/signal-hunter-epochs.png&#34; alt=&#34;Screenshot&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/biomaglab/signalhunter/wiki/Screenshots&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://vhosouza.github.io/media/signal-hunter-epochs.png&#34; alt=&#34;Screenshot&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

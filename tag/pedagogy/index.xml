@@ -1,24 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Pedagogy | Victor Hugo Souza</title>
+    <title>Pedagogy | Victor H. Souza</title>
     <link>https://vhosouza.github.io/tag/pedagogy/</link>
       <atom:link href="https://vhosouza.github.io/tag/pedagogy/index.xml" rel="self" type="application/rss+xml" />
     <description>Pedagogy</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Victor Hugo Souza</copyright><lastBuildDate>Fri, 04 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 04 Dec 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://vhosouza.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://vhosouza.github.io/media/icon_hu8d7500d2420c0000b894f0459714a4ed_123720_512x512_fill_lanczos_center_3.png</url>
       <title>Pedagogy</title>
       <link>https://vhosouza.github.io/tag/pedagogy/</link>
     </image>
     
     <item>
       <title>Topic 5: Unfortunately, the end...</title>
-      <link>https://vhosouza.github.io/post/t5-end-copy/</link>
+      <link>https://vhosouza.github.io/post/t5-end/</link>
       <pubDate>Fri, 04 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://vhosouza.github.io/post/t5-end-copy/</guid>
-      <description>&lt;p&gt;This is a series of blog posts about my learning activities in the 
-&lt;a href=&#34;https://www.opennetworkedlearning.se/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Open Networked Learning&lt;/a&gt; (ONL202) pedagogical course.&lt;/p&gt;
+      <guid>https://vhosouza.github.io/post/t5-end/</guid>
+      <description>&lt;p&gt;This is a series of blog posts about my learning activities in the &lt;a href=&#34;https://www.opennetworkedlearning.se/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Open Networked Learning&lt;/a&gt; (ONL202) pedagogical course.&lt;/p&gt;
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     &lt;p&gt;TL;DR&lt;/p&gt;
@@ -51,14 +50,14 @@
 &lt;p&gt;Course design is one of the most important topics, but came on a period that students were already stuffed with work. I felt that, in general, people engaged a bit less in this topic than the preceding ones. So, I would like to have first the discussions on digital literacy, then study about the course design models, then address the learning in communities to finally reflect on open learning by sharing.&lt;/p&gt;
 &lt;p&gt;Overall, the group work was amazing. Through the PBL activities and follwing the FISh model really promoted an interactive and collaborative work. I realized that with approapriate design and methods it is possible to have fun and fruitful online activities in group. In my next course, I&amp;rsquo;ll certainly promote these activities and implement most of the principles I learning in the ONL. These need to be done slowly as they require more effort from the teacher, and trying to implement all at one may overwhel me, as a teacher, and the students.&lt;/p&gt;
 &lt;p&gt;Once more, I would like to thank all my colleagues from the PBL group &lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;, through which I learned so much, had lots of fun and am grateful to be part of it. Thanks Mohit, Kinaz, Marcus, Stephanie, Hui-Chen, Erik, and Vigdis, with the great guidance by Charlotta and Cecilia. 😄&lt;/p&gt;
-&lt;section class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
 &lt;hr&gt;
 &lt;ol&gt;
-&lt;li id=&#34;fn:1&#34; role=&#34;doc-endnote&#34;&gt;
-&lt;p&gt;&lt;strong&gt;Group 6 members:&lt;/strong&gt; Victor Souza, Mohit Gupta, Kinaz Al Aytouni, Marcus Stensmyr, Stephanie Birkner, Hui-Chen, Erik Elfgren, Vigdis Ahnfelt, Charlotta Hilli, and Cecilia Hellekant. &lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;li id=&#34;fn:1&#34;&gt;
+&lt;p&gt;&lt;strong&gt;Group 6 members:&lt;/strong&gt; Victor Souza, Mohit Gupta, Kinaz Al Aytouni, Marcus Stensmyr, Stephanie Birkner, Hui-Chen, Erik Elfgren, Vigdis Ahnfelt, Charlotta Hilli, and Cecilia Hellekant.&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
-&lt;/section&gt;
+&lt;/div&gt;
 </description>
     </item>
     
@@ -67,8 +66,7 @@
       <link>https://vhosouza.github.io/post/t4-blended-design/</link>
       <pubDate>Fri, 27 Nov 2020 00:00:00 +0000</pubDate>
       <guid>https://vhosouza.github.io/post/t4-blended-design/</guid>
-      <description>&lt;p&gt;This is a series of blog posts about my learning activities in the 
-&lt;a href=&#34;https://www.opennetworkedlearning.se/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Open Networked Learning&lt;/a&gt; (ONL202) pedagogical course.&lt;/p&gt;
+      <description>&lt;p&gt;This is a series of blog posts about my learning activities in the &lt;a href=&#34;https://www.opennetworkedlearning.se/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Open Networked Learning&lt;/a&gt; (ONL202) pedagogical course.&lt;/p&gt;
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     &lt;p&gt;TL;DR&lt;/p&gt;
@@ -83,23 +81,11 @@
 &lt;h2 id=&#34;frameworks-and-models-for-blended-learning&#34;&gt;Frameworks and models for blended learning&lt;/h2&gt;
 &lt;p&gt;This week, our PBL group &lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt; prepared a compass rose point to different directions each representing a framework or model to support designing a blended course. We highlighted the:&lt;/p&gt;
 &lt;ol&gt;
-&lt;li&gt;
-&lt;a href=&#34;https://blogs.ucl.ac.uk/abc-ld/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ABC Arena for Blended Learning&lt;/a&gt;: Designed at the University College London, it provides a well-structured model with step-by-step instructions on how to quickly adapt the teaching activities to online mode.&lt;/li&gt;
-&lt;li&gt;
-&lt;a href=&#34;https://www.gillysalmon.com/five-stage-model.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The 5 stage model&lt;/a&gt;: Provides a structured development process that supports the construction of better online learning.&lt;/li&gt;
-&lt;li&gt;
-&lt;a href=&#34;http://oasis.col.org/handle/11599/3095&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The Community of Inquiry&lt;/a&gt;: Introduces a framework to create a home for a community escaping from the conventional teaching styles and is based on engaging students to create paths and explore what they want to learn, taking a more flexible approach to learning.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://blogs.ucl.ac.uk/abc-ld/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ABC Arena for Blended Learning&lt;/a&gt;: Designed at the University College London, it provides a well-structured model with step-by-step instructions on how to quickly adapt the teaching activities to online mode.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.gillysalmon.com/five-stage-model.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The 5 stage model&lt;/a&gt;: Provides a structured development process that supports the construction of better online learning.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://oasis.col.org/handle/11599/3095&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The Community of Inquiry&lt;/a&gt;: Introduces a framework to create a home for a community escaping from the conventional teaching styles and is based on engaging students to create paths and explore what they want to learn, taking a more flexible approach to learning.&lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;Below, you will find a snapshot of our Compass Rose work, and 
-&lt;a href=&#34;https://miro.com/app/board/o9J_ldwqE2k=/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt; you can access the interactive board we built.&lt;/p&gt;
-
-
-
-
-
-
-  
-  
+&lt;p&gt;Below, you will find a snapshot of our Compass Rose work, and &lt;a href=&#34;https://miro.com/app/board/o9J_ldwqE2k=/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt; you can access the interactive board we built.&lt;/p&gt;
 
 
 
@@ -111,33 +97,35 @@
 
 
 
-&lt;figure id=&#34;figure-learning-in-communitieshttpsmirocomappboardo9j_ldwqe2k&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://vhosouza.github.io/post/t4-blended-design/compass-rose-learning_hu82058f3339dadd06fd0fb0ac9edc4400_150632_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;&amp;lt;a href=&amp;#34;https://miro.com/app/board/o9J_ldwqE2k=/&amp;#34;&amp;gt;Learning in communities&amp;lt;/a&amp;gt;&#34;&gt;
 
 
-  &lt;img data-src=&#34;https://vhosouza.github.io/post/t4-blended-design/compass-rose-learning_hu82058f3339dadd06fd0fb0ac9edc4400_150632_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;1730&#34; height=&#34;903&#34;&gt;
-&lt;/a&gt;
 
 
-  
-  
-  &lt;figcaption&gt;
-    &lt;a href=&#34;https://miro.com/app/board/o9J_ldwqE2k=/&#34;&gt;Learning in communities&lt;/a&gt;
-  &lt;/figcaption&gt;
 
+&lt;figure  id=&#34;figure-learning-in-communitieshttpsmirocomappboardo9j_ldwqe2k&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;[Learning in communities](https://miro.com/app/board/o9J_ldwqE2k=/)&#34; srcset=&#34;
+               /post/t4-blended-design/compass-rose-learning_hu82058f3339dadd06fd0fb0ac9edc4400_150632_f24ccef84508764443bc12d4368a5696.webp 400w,
+               /post/t4-blended-design/compass-rose-learning_hu82058f3339dadd06fd0fb0ac9edc4400_150632_b723cc81a10ce2bc58c2bd43f7e0e941.webp 760w,
+               /post/t4-blended-design/compass-rose-learning_hu82058f3339dadd06fd0fb0ac9edc4400_150632_1200x1200_fit_q90_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://vhosouza.github.io/post/t4-blended-design/compass-rose-learning_hu82058f3339dadd06fd0fb0ac9edc4400_150632_f24ccef84508764443bc12d4368a5696.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;396&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      &lt;a href=&#34;https://miro.com/app/board/o9J_ldwqE2k=/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Learning in communities&lt;/a&gt;
+    &lt;/figcaption&gt;&lt;/figure&gt;
 
-&lt;/figure&gt;
-
-&lt;section class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
 &lt;hr&gt;
 &lt;ol&gt;
-&lt;li id=&#34;fn:1&#34; role=&#34;doc-endnote&#34;&gt;
-&lt;p&gt;&lt;strong&gt;Group 6 members:&lt;/strong&gt; Victor Souza, Mohit Gupta, Kinaz Al Aytouni, Marcus Stensmyr, Stephanie Birkner, Hui-Chen, Erik Elfgren, Vigdis Ahnfelt, Charlotta Hilli, and Cecilia Hellekant. &lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;li id=&#34;fn:1&#34;&gt;
+&lt;p&gt;&lt;strong&gt;Group 6 members:&lt;/strong&gt; Victor Souza, Mohit Gupta, Kinaz Al Aytouni, Marcus Stensmyr, Stephanie Birkner, Hui-Chen, Erik Elfgren, Vigdis Ahnfelt, Charlotta Hilli, and Cecilia Hellekant.&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
-&lt;/section&gt;
+&lt;/div&gt;
 </description>
     </item>
     
@@ -146,8 +134,7 @@
       <link>https://vhosouza.github.io/post/t3-collab-coop/</link>
       <pubDate>Sun, 15 Nov 2020 00:00:00 +0000</pubDate>
       <guid>https://vhosouza.github.io/post/t3-collab-coop/</guid>
-      <description>&lt;p&gt;This is a series of blog posts about my learning activities in the 
-&lt;a href=&#34;https://www.opennetworkedlearning.se/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Open Networked Learning&lt;/a&gt; (ONL202) pedagogical course.&lt;/p&gt;
+      <description>&lt;p&gt;This is a series of blog posts about my learning activities in the &lt;a href=&#34;https://www.opennetworkedlearning.se/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Open Networked Learning&lt;/a&gt; (ONL202) pedagogical course.&lt;/p&gt;
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     &lt;p&gt;TL;DR&lt;/p&gt;
@@ -157,8 +144,7 @@ Teachers should account for each student characteristics and design group activi
 &lt;/div&gt;
 &lt;h2 id=&#34;collaborative-x-network-learning&#34;&gt;Collaborative x network learning&lt;/h2&gt;
 &lt;p&gt;There is a great challenge in current higher education in achieving collaborative learning. In most cases, group activies are designed in a way that the level of engagement between students vary considerably. In online courses, the situation is even more critical as digital literacy may hinder some student&amp;rsquo;s participation. In this context, teachers play an important role in designing the courses and activities to foster a collaborative and active participation of the students, promoting learning in communities through joint, fun steps.&lt;/p&gt;
-&lt;p&gt;The pedagogical training provided at Aalto University has been an eye-opening for the benefits of network and collaborative learning. Especifically, the 
-&lt;a href=&#34;https://www.opennetworkedlearning.se/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ONL202&lt;/a&gt; activities have demonstrated the feasibility of real collaborative learning through the problem based learning (&lt;strong&gt;PBL&lt;/strong&gt;) groups led by two facilitators. The interesting feature about ONL202 is we construct our knowledge based on the experiences shared by our teammates and through the process of accomplishing the necessary tasks. We not only support the work of our colleagues (&lt;u&gt;cooperation&lt;/u&gt;) but we also build together (&lt;u&gt;collaboration&lt;/u&gt;) solutions to common learning problems.&lt;/p&gt;
+&lt;p&gt;The pedagogical training provided at Aalto University has been an eye-opening for the benefits of network and collaborative learning. Especifically, the &lt;a href=&#34;https://www.opennetworkedlearning.se/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ONL202&lt;/a&gt; activities have demonstrated the feasibility of real collaborative learning through the problem based learning (&lt;strong&gt;PBL&lt;/strong&gt;) groups led by two facilitators. The interesting feature about ONL202 is we construct our knowledge based on the experiences shared by our teammates and through the process of accomplishing the necessary tasks. We not only support the work of our colleagues (&lt;u&gt;cooperation&lt;/u&gt;) but we also build together (&lt;u&gt;collaboration&lt;/u&gt;) solutions to common learning problems.&lt;/p&gt;
 &lt;p&gt;Working in a research group in a University, my Personal Learning Network is strongly populated with my work peers. Luckily, I also have strong learning connections with my parents and relatives. Both my parents and many of my close relatives are teachers, which created in my childhood an environment based on learning activities.&lt;/p&gt;
 &lt;p&gt;One special link that is part of anyone&amp;rsquo;s learning network is the internet. Nowadays, the new standard is to learn through the myriad of content, e.g., videos, blogs, openly available in the internet. Therefore, technological advances and the building up of social networks have enabled the expansions of our own personal learning network beyond our daily circle. Looking from outside, openness and sharing are the pillars of network learning in current society. But it&amp;rsquo;s important to note that collaborative activies are necessary in higher education. For the differences between collaborative and network learning, check the slide below prepared by our PBL group &lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
 
@@ -167,8 +153,6 @@ Teachers should account for each student characteristics and design group activi
 
 
 
-  
-  
 
 
 
@@ -180,36 +164,31 @@ Teachers should account for each student characteristics and design group activi
 
 
 
-&lt;figure id=&#34;figure-learning-in-communitieshttpsdocsgooglecompresentationd1nwemuoftu__mfg5w5zkisf_r3cluvtdwp0u0njqiqtyedituspsharing&#34;&gt;
 
-
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://vhosouza.github.io/post/t3-collab-coop/diff-network-community_hucf9649b6d163c10adaea5b93f042eba2_94042_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;&amp;lt;a href=&amp;#34;https://docs.google.com/presentation/d/1nwEmUoFtU__mFg5W5zkIsF_r3CLuVtDwP0u0njQiQTY/edit?usp=sharing&amp;#34;&amp;gt;Learning in communities&amp;lt;/a&amp;gt;&#34;&gt;
-
-
-  &lt;img data-src=&#34;https://vhosouza.github.io/post/t3-collab-coop/diff-network-community_hucf9649b6d163c10adaea5b93f042eba2_94042_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;960&#34; height=&#34;540&#34;&gt;
-&lt;/a&gt;
-
-
-  
-  
-  &lt;figcaption&gt;
-    &lt;a href=&#34;https://docs.google.com/presentation/d/1nwEmUoFtU__mFg5W5zkIsF_r3CLuVtDwP0u0njQiQTY/edit?usp=sharing&#34;&gt;Learning in communities&lt;/a&gt;
-  &lt;/figcaption&gt;
-
-
-&lt;/figure&gt;
+&lt;figure  id=&#34;figure-learning-in-communitieshttpsdocsgooglecompresentationd1nwemuoftu__mfg5w5zkisf_r3cluvtdwp0u0njqiqtyedituspsharing&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;[Learning in communities](https://docs.google.com/presentation/d/1nwEmUoFtU__mFg5W5zkIsF_r3CLuVtDwP0u0njQiQTY/edit?usp=sharing)&#34; srcset=&#34;
+               /post/t3-collab-coop/diff-network-community_hucf9649b6d163c10adaea5b93f042eba2_94042_e64feed1734a1efcf93da4bb9f65013b.webp 400w,
+               /post/t3-collab-coop/diff-network-community_hucf9649b6d163c10adaea5b93f042eba2_94042_0931e444941ee100758c90ea9432bbe3.webp 760w,
+               /post/t3-collab-coop/diff-network-community_hucf9649b6d163c10adaea5b93f042eba2_94042_1200x1200_fit_q90_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://vhosouza.github.io/post/t3-collab-coop/diff-network-community_hucf9649b6d163c10adaea5b93f042eba2_94042_e64feed1734a1efcf93da4bb9f65013b.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;428&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      &lt;a href=&#34;https://docs.google.com/presentation/d/1nwEmUoFtU__mFg5W5zkIsF_r3CLuVtDwP0u0njQiQTY/edit?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Learning in communities&lt;/a&gt;
+    &lt;/figcaption&gt;&lt;/figure&gt;
 
 &lt;h2 id=&#34;towards-collaborative-learning&#34;&gt;Towards collaborative learning&lt;/h2&gt;
-&lt;p&gt;We (PBL group &lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;) prepared a few slides with some relevant tips for designing courses to encourage students to collaborate, work in groups, and a few strategies to support teachers when implementing collaborative learning. Feel free to take a look at it 
-&lt;a href=&#34;https://docs.google.com/presentation/d/1nwEmUoFtU__mFg5W5zkIsF_r3CLuVtDwP0u0njQiQTY/edit?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
-&lt;section class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;p&gt;We (PBL group &lt;sup id=&#34;fnref1:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;) prepared a few slides with some relevant tips for designing courses to encourage students to collaborate, work in groups, and a few strategies to support teachers when implementing collaborative learning. Feel free to take a look at it &lt;a href=&#34;https://docs.google.com/presentation/d/1nwEmUoFtU__mFg5W5zkIsF_r3CLuVtDwP0u0njQiQTY/edit?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
 &lt;hr&gt;
 &lt;ol&gt;
-&lt;li id=&#34;fn:1&#34; role=&#34;doc-endnote&#34;&gt;
-&lt;p&gt;&lt;strong&gt;Group 6 members:&lt;/strong&gt; Victor Souza, Mohit Gupta, Kinaz Al Aytouni, Marcus Stensmyr, Stephanie Birkner, Hui-Chen, Erik Elfgren, Vigdis Ahnfelt, Charlotta Hilli, and Cecilia Hellekant. &lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;li id=&#34;fn:1&#34;&gt;
+&lt;p&gt;&lt;strong&gt;Group 6 members:&lt;/strong&gt; Victor Souza, Mohit Gupta, Kinaz Al Aytouni, Marcus Stensmyr, Stephanie Birkner, Hui-Chen, Erik Elfgren, Vigdis Ahnfelt, Charlotta Hilli, and Cecilia Hellekant.&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&amp;#160;&lt;a href=&#34;#fnref1:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
-&lt;/section&gt;
+&lt;/div&gt;
 </description>
     </item>
     
@@ -218,8 +197,7 @@ Teachers should account for each student characteristics and design group activi
       <link>https://vhosouza.github.io/post/t2-open-education/</link>
       <pubDate>Sun, 25 Oct 2020 00:00:00 +0000</pubDate>
       <guid>https://vhosouza.github.io/post/t2-open-education/</guid>
-      <description>&lt;p&gt;This is a series of blog posts about my learning activities in the 
-&lt;a href=&#34;https://www.opennetworkedlearning.se/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Open Networked Learning&lt;/a&gt; (ONL202) pedagogical course.&lt;/p&gt;
+      <description>&lt;p&gt;This is a series of blog posts about my learning activities in the &lt;a href=&#34;https://www.opennetworkedlearning.se/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Open Networked Learning&lt;/a&gt; (ONL202) pedagogical course.&lt;/p&gt;
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     &lt;p&gt;TL;DR&lt;/p&gt;
@@ -233,16 +211,7 @@ Teachers should account for each student characteristics and design group activi
 &lt;/div&gt;
 
 &lt;h2 id=&#34;the-road-to-open-education&#34;&gt;The road to Open Education&lt;/h2&gt;
-&lt;p&gt;Our (PBL group &lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;) prepared a presentation to introduce the road to Open Education for someone interested in joining this endeavour. You can navigate through 
-&lt;a href=&#34;https://prezi.com/view/IsV78cBtrhSEGa3rMX2a/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;the road&lt;/a&gt; from the &lt;strong&gt;Start&lt;/strong&gt;, where we gathered some useful tools that can be used to prepare and make available open courses. It&amp;rsquo;s very important to remember that this is a joint effort between the teacher and the institution. Openning a course can be time consuming and requires &lt;strong&gt;strong support&lt;/strong&gt; from colleagues, admnistration, and staff. On the path to openness, additional care should be taken with copyrights, ethical and privacy issues, and so on. Nonetheless, the ultimate benefits and impacts might manifest as a more inclusive and equal society, promote personal development and critical thinking, and lastly create a community of people that share and exchange knowledge.&lt;/p&gt;
-
-
-
-
-
-
-  
-  
+&lt;p&gt;Our (PBL group &lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;) prepared a presentation to introduce the road to Open Education for someone interested in joining this endeavour. You can navigate through &lt;a href=&#34;https://prezi.com/view/IsV78cBtrhSEGa3rMX2a/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;the road&lt;/a&gt; from the &lt;strong&gt;Start&lt;/strong&gt;, where we gathered some useful tools that can be used to prepare and make available open courses. It&amp;rsquo;s very important to remember that this is a joint effort between the teacher and the institution. Openning a course can be time consuming and requires &lt;strong&gt;strong support&lt;/strong&gt; from colleagues, admnistration, and staff. On the path to openness, additional care should be taken with copyrights, ethical and privacy issues, and so on. Nonetheless, the ultimate benefits and impacts might manifest as a more inclusive and equal society, promote personal development and critical thinking, and lastly create a community of people that share and exchange knowledge.&lt;/p&gt;
 
 
 
@@ -254,41 +223,40 @@ Teachers should account for each student characteristics and design group activi
 
 
 
-&lt;figure id=&#34;figure-the-road-to-open-educationhttpsprezicomviewisv78cbtrhsega3rmx2a&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://vhosouza.github.io/post/t2-open-education/road_open_ed_hudfdf1710a36f450865ed16a2a4edfe53_1490884_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;&amp;lt;a href=&amp;#34;https://prezi.com/view/IsV78cBtrhSEGa3rMX2a/&amp;#34;&amp;gt;The road to open education&amp;lt;/a&amp;gt;&#34;&gt;
 
 
-  &lt;img data-src=&#34;https://vhosouza.github.io/post/t2-open-education/road_open_ed_hudfdf1710a36f450865ed16a2a4edfe53_1490884_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;1457&#34; height=&#34;812&#34;&gt;
-&lt;/a&gt;
 
 
-  
-  
-  &lt;figcaption&gt;
-    &lt;a href=&#34;https://prezi.com/view/IsV78cBtrhSEGa3rMX2a/&#34;&gt;The road to open education&lt;/a&gt;
-  &lt;/figcaption&gt;
 
-
-&lt;/figure&gt;
+&lt;figure  id=&#34;figure-the-road-to-open-educationhttpsprezicomviewisv78cbtrhsega3rmx2a&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;[The road to open education](https://prezi.com/view/IsV78cBtrhSEGa3rMX2a/)&#34; srcset=&#34;
+               /post/t2-open-education/road_open_ed_hudfdf1710a36f450865ed16a2a4edfe53_1490884_cd436ba7c667a2ff36168b1075c44e97.webp 400w,
+               /post/t2-open-education/road_open_ed_hudfdf1710a36f450865ed16a2a4edfe53_1490884_43bc2e42259d46a8d4e5f70a7724940b.webp 760w,
+               /post/t2-open-education/road_open_ed_hudfdf1710a36f450865ed16a2a4edfe53_1490884_1200x1200_fit_q90_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://vhosouza.github.io/post/t2-open-education/road_open_ed_hudfdf1710a36f450865ed16a2a4edfe53_1490884_cd436ba7c667a2ff36168b1075c44e97.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;424&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      &lt;a href=&#34;https://prezi.com/view/IsV78cBtrhSEGa3rMX2a/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The road to open education&lt;/a&gt;
+    &lt;/figcaption&gt;&lt;/figure&gt;
 
 &lt;h2 id=&#34;references&#34;&gt;References&lt;/h2&gt;
 &lt;p&gt;A few interesting scientific publications about Open Education&lt;/p&gt;
-&lt;p&gt;
-&lt;a href=&#34;https://doi.org/10.14742/ajet.4252&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Bozkurt et. al (2019) &lt;em&gt;An analysis of peer reviewed publications on openness in education in half a century: Trends and patterns in the open hemisphere&lt;/em&gt;, Australasian Journal of Educational Technology, v.35&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;
-&lt;a href=&#34;https://doi.org/10.6087/kcse.97&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Seo et al. (2017) &lt;em&gt;Equality, equity, and reality of open access on scholarly information&lt;/em&gt;, Science Editing, v.4&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;
-&lt;a href=&#34;https://doi.org/10.1016/j.sbspro.2016.07.094&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Khalid et. al (2016) &lt;em&gt;Digital Exclusion in Higher Education Contexts: A Systematic Literature Review&lt;/em&gt;, Procedia - Social and Behavioral Sciences, v.228&lt;/a&gt;&lt;/p&gt;
-&lt;section class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;p&gt;&lt;a href=&#34;https://doi.org/10.14742/ajet.4252&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Bozkurt et. al (2019) &lt;em&gt;An analysis of peer reviewed publications on openness in education in half a century: Trends and patterns in the open hemisphere&lt;/em&gt;, Australasian Journal of Educational Technology, v.35&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://doi.org/10.6087/kcse.97&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Seo et al. (2017) &lt;em&gt;Equality, equity, and reality of open access on scholarly information&lt;/em&gt;, Science Editing, v.4&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://doi.org/10.1016/j.sbspro.2016.07.094&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Khalid et. al (2016) &lt;em&gt;Digital Exclusion in Higher Education Contexts: A Systematic Literature Review&lt;/em&gt;, Procedia - Social and Behavioral Sciences, v.228&lt;/a&gt;&lt;/p&gt;
+&lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
 &lt;hr&gt;
 &lt;ol&gt;
-&lt;li id=&#34;fn:1&#34; role=&#34;doc-endnote&#34;&gt;
-&lt;p&gt;&lt;strong&gt;Group 6 members:&lt;/strong&gt; Victor Souza, Mohit Gupta, Kinaz Al Aytouni, Marcus Stensmyr, Stephanie Birkner, Hui-Chen, Erik Elfgren, Vigdis Ahnfelt, Charlotta Hilli, and Cecilia Hellekant. &lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;li id=&#34;fn:1&#34;&gt;
+&lt;p&gt;&lt;strong&gt;Group 6 members:&lt;/strong&gt; Victor Souza, Mohit Gupta, Kinaz Al Aytouni, Marcus Stensmyr, Stephanie Birkner, Hui-Chen, Erik Elfgren, Vigdis Ahnfelt, Charlotta Hilli, and Cecilia Hellekant.&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
-&lt;/section&gt;
+&lt;/div&gt;
 </description>
     </item>
     
@@ -297,8 +265,7 @@ Teachers should account for each student characteristics and design group activi
       <link>https://vhosouza.github.io/post/t1-digital-literacy/</link>
       <pubDate>Fri, 09 Oct 2020 00:00:00 +0000</pubDate>
       <guid>https://vhosouza.github.io/post/t1-digital-literacy/</guid>
-      <description>&lt;p&gt;This is a series of blog posts about my learning activities in the 
-&lt;a href=&#34;https://www.opennetworkedlearning.se/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Open Networked Learning&lt;/a&gt; (ONL202) pedagogical course.&lt;/p&gt;
+      <description>&lt;p&gt;This is a series of blog posts about my learning activities in the &lt;a href=&#34;https://www.opennetworkedlearning.se/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Open Networked Learning&lt;/a&gt; (ONL202) pedagogical course.&lt;/p&gt;
 &lt;p&gt;We are living in an exciting era with high demand for teaching digitalization. I hope that my posts will bring useful information for everyone interested in pedagogy and online learning.&lt;/p&gt;
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
@@ -314,8 +281,7 @@ Teachers should account for each student characteristics and design group activi
 &lt;/div&gt;
 &lt;p&gt;Digitalization opens many new possibilities to improve teaching and learning in multiple levels. Teachers are now capable of providing more diverse, accessible practices that suit well each kind of intelligence and social background. However, fostering online participation and engagement with online tools requires that both teachers and students are reasonably comfortable and literate in digital technologies. These requirements are potentially dangerous in segregating those students with limited online access and may also bring more stress and additional load to the teachers to handle. &lt;strong&gt;Here, I discuss a few points to assist teachers on making better use of the digital environment to foster better learning practices.&lt;/strong&gt;&lt;/p&gt;
 &lt;h2 id=&#34;1-the-visitor-and-residents-map&#34;&gt;1. The visitor and residents map&lt;/h2&gt;
-&lt;p&gt;David White presented the interesting 
-&lt;a href=&#34;https://en.wikipedia.org/wiki/Digital_Visitor_and_Resident&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Visitor and Resident&lt;/a&gt; framework to map how we engage with different digital tools. In this chart, one drafts a two-axis chart with Visitor and Resident on the limits of the X axis and Personal and Work on the limits of the Y axis. Then, the person is free to place any number of digital tools (e.g., e-mail, office software, YouTube, blogs) in the chart to illustrate how he/she considers to use these tools in the personal and work context.&lt;/p&gt;
+&lt;p&gt;David White presented the interesting &lt;a href=&#34;https://en.wikipedia.org/wiki/Digital_Visitor_and_Resident&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Visitor and Resident&lt;/a&gt; framework to map how we engage with different digital tools. In this chart, one drafts a two-axis chart with Visitor and Resident on the limits of the X axis and Personal and Work on the limits of the Y axis. Then, the person is free to place any number of digital tools (e.g., e-mail, office software, YouTube, blogs) in the chart to illustrate how he/she considers to use these tools in the personal and work context.&lt;/p&gt;
 &lt;p&gt;The visitor and resident map can be quite useful for a teacher as a breaking-the-ice activity in the begining of a course, to get to know better the students&amp;rsquo; engagement with the online world, and subsequently tailor the learning activities accordingly. In the video below, David White makes an elegant and quick introduction to the Vistor and Resident model.&lt;/p&gt;
 
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
@@ -323,8 +289,7 @@ Teachers should account for each student characteristics and design group activi
 &lt;/div&gt;
 
 &lt;h2 id=&#34;2-multiple-intelligences&#34;&gt;2. Multiple intelligences&lt;/h2&gt;
-&lt;p&gt;We, human beings, exhibit a diverse set of intelligences, which are nicely described by Howard Gardner&amp;rsquo;s work on multiple intelligence and education (
-&lt;a href=&#34;#references&#34;&gt;Smith, Mark K.; 2002, 2008&lt;/a&gt;). Teachers should be aware that each student may learn through different means. Gardner&amp;rsquo;s theory propose the following multiple intelligences:&lt;/p&gt;
+&lt;p&gt;We, human beings, exhibit a diverse set of intelligences, which are nicely described by Howard Gardner&amp;rsquo;s work on multiple intelligence and education (&lt;a href=&#34;#references&#34;&gt;Smith, Mark K.; 2002, 2008&lt;/a&gt;). Teachers should be aware that each student may learn through different means. Gardner&amp;rsquo;s theory propose the following multiple intelligences:&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;Linguistic&lt;/li&gt;
 &lt;li&gt;Logical-mathematical&lt;/li&gt;
@@ -334,8 +299,7 @@ Teachers should account for each student characteristics and design group activi
 &lt;li&gt;Interpersonal&lt;/li&gt;
 &lt;li&gt;Intrapersonal&lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;We could add another type of intelligence, the &lt;strong&gt;Digital intelligence&lt;/strong&gt;, which shapes how we absorb information, interact, and create knowledge through digital means. Childrens and adolescentes have been already exposed through their whole lifes to digital technologies, in the form of games, online activities, and social interactions. In this scenario, the digital world creates a novel intelligence that also contributes to how we learn through digital means. Putting yourself in the younger&amp;rsquo;s perspective, you will probably realize that it&amp;rsquo;s getting harder to think how can we learn something if we can&amp;rsquo;t search or interact with it online. You can navigate through our 
-&lt;a href=&#34;https://miro.com/app/board/o9J_ktd8SVw=/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Miro board&lt;/a&gt; to explore the content we created.&lt;/p&gt;
+&lt;p&gt;We could add another type of intelligence, the &lt;strong&gt;Digital intelligence&lt;/strong&gt;, which shapes how we absorb information, interact, and create knowledge through digital means. Childrens and adolescentes have been already exposed through their whole lifes to digital technologies, in the form of games, online activities, and social interactions. In this scenario, the digital world creates a novel intelligence that also contributes to how we learn through digital means. Putting yourself in the younger&amp;rsquo;s perspective, you will probably realize that it&amp;rsquo;s getting harder to think how can we learn something if we can&amp;rsquo;t search or interact with it online. You can navigate through our &lt;a href=&#34;https://miro.com/app/board/o9J_ktd8SVw=/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Miro board&lt;/a&gt; to explore the content we created.&lt;/p&gt;
 &lt;h2 id=&#34;3-online-engagement-how-to-improve-it&#34;&gt;3. Online engagement: How to improve it?&lt;/h2&gt;
 &lt;p&gt;As a group effort, we (Group 6&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;) created the DigiLit Fish (figure below) as a diagram with questions and answers (recommendations) on how to improve the online participation and student engagement in the digital learning spaces.&lt;/p&gt;
 
@@ -344,8 +308,6 @@ Teachers should account for each student characteristics and design group activi
 
 
 
-  
-  
 
 
 
@@ -357,41 +319,24 @@ Teachers should account for each student characteristics and design group activi
 
 
 
-&lt;figure id=&#34;figure-the-digilit-fish-by-group-6-onl202httpsmirocomappboardo9j_ktd8svw&#34;&gt;
 
+&lt;figure  id=&#34;figure-the-digilit-fish-by-group-6-onl202httpsmirocomappboardo9j_ktd8svw&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;[The DigiLit Fish by Group 6 ONL202](https://miro.com/app/board/o9J_ktd8SVw=/)&#34; srcset=&#34;
+               /post/t1-digital-literacy/digilit_fish_hu7b62577adf0573e3a571618bde5344e0_463813_1f29304dc710cb11bffc21c4fb50a029.webp 400w,
+               /post/t1-digital-literacy/digilit_fish_hu7b62577adf0573e3a571618bde5344e0_463813_4714ed84f34c1e037714acb3ae315c58.webp 760w,
+               /post/t1-digital-literacy/digilit_fish_hu7b62577adf0573e3a571618bde5344e0_463813_1200x1200_fit_q90_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://vhosouza.github.io/post/t1-digital-literacy/digilit_fish_hu7b62577adf0573e3a571618bde5344e0_463813_1f29304dc710cb11bffc21c4fb50a029.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;460&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      &lt;a href=&#34;https://miro.com/app/board/o9J_ktd8SVw=/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The DigiLit Fish by Group 6 ONL202&lt;/a&gt;
+    &lt;/figcaption&gt;&lt;/figure&gt;
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://vhosouza.github.io/post/t1-digital-literacy/digilit_fish_hu7b62577adf0573e3a571618bde5344e0_463813_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;&amp;lt;a href=&amp;#34;https://miro.com/app/board/o9J_ktd8SVw=/&amp;#34;&amp;gt;The DigiLit Fish by Group 6 ONL202&amp;lt;/a&amp;gt;&#34;&gt;
-
-
-  &lt;img data-src=&#34;https://vhosouza.github.io/post/t1-digital-literacy/digilit_fish_hu7b62577adf0573e3a571618bde5344e0_463813_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;1973&#34; height=&#34;1193&#34;&gt;
-&lt;/a&gt;
-
-
-  
-  
-  &lt;figcaption&gt;
-    &lt;a href=&#34;https://miro.com/app/board/o9J_ktd8SVw=/&#34;&gt;The DigiLit Fish by Group 6 ONL202&lt;/a&gt;
-  &lt;/figcaption&gt;
-
-
-&lt;/figure&gt;
-
-&lt;p&gt;Promoting online engagement is a difficult task that requires full consideration of the cultural background, tools, and participants&amp;rsquo; roles (teachers and students) (
-&lt;a href=&#34;#references&#34;&gt;Yengin et al., 2010&lt;/a&gt;). Cultural and social background defines several aspects of the digital literacy. For example, different than in classical lectures, in online teaching the students might know better how to use digital tools than the teachers, switching the role with the teacher. Teachers should be prepared to benefit from this situation.&lt;/p&gt;
-&lt;p&gt;The selected tools for teaching should be clearly introduced and selected to promote inclusion of every student, considering possible access limitations and how they operate as 
-&lt;a href=&#34;#1-the-visitor-and-residents-map&#34;&gt;visitors or residents&lt;/a&gt;. There are a plethora of webpages that compiled available free online tools for teaching, for instance 
-&lt;a href=&#34;https://opensource.com/article/20/4/open-source-remote-teaching-tools&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt; and 
-&lt;a href=&#34;https://elearningindustry.com/321-free-tools-for-teachers-free-educational-technology&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;We may assume that students can easily adapt to novel technologies, however, clear training and instructions would possibly contribute to a more efficient learning and online engagement (
-&lt;a href=&#34;#references&#34;&gt;Ozdamar-Keskin et al., 2015&lt;/a&gt;).&lt;/p&gt;
-
-
-
-
-
-
-  
-  
+&lt;p&gt;Promoting online engagement is a difficult task that requires full consideration of the cultural background, tools, and participants&amp;rsquo; roles (teachers and students) (&lt;a href=&#34;#references&#34;&gt;Yengin et al., 2010&lt;/a&gt;). Cultural and social background defines several aspects of the digital literacy. For example, different than in classical lectures, in online teaching the students might know better how to use digital tools than the teachers, switching the role with the teacher. Teachers should be prepared to benefit from this situation.&lt;/p&gt;
+&lt;p&gt;The selected tools for teaching should be clearly introduced and selected to promote inclusion of every student, considering possible access limitations and how they operate as &lt;a href=&#34;#1-the-visitor-and-residents-map&#34;&gt;visitors or residents&lt;/a&gt;. There are a plethora of webpages that compiled available free online tools for teaching, for instance &lt;a href=&#34;https://opensource.com/article/20/4/open-source-remote-teaching-tools&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt; and &lt;a href=&#34;https://elearningindustry.com/321-free-tools-for-teachers-free-educational-technology&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;We may assume that students can easily adapt to novel technologies, however, clear training and instructions would possibly contribute to a more efficient learning and online engagement (&lt;a href=&#34;#references&#34;&gt;Ozdamar-Keskin et al., 2015&lt;/a&gt;).&lt;/p&gt;
 
 
 
@@ -403,40 +348,39 @@ Teachers should account for each student characteristics and design group activi
 
 
 
-&lt;figure id=&#34;figure-the-online-engagement-diagram&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://vhosouza.github.io/post/t1-digital-literacy/diagram_hu3a36459ad376d5217e3c2267f2c9e236_124286_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;The online engagement diagram&#34;&gt;
 
 
-  &lt;img data-src=&#34;https://vhosouza.github.io/post/t1-digital-literacy/diagram_hu3a36459ad376d5217e3c2267f2c9e236_124286_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;1692&#34; height=&#34;1197&#34;&gt;
-&lt;/a&gt;
 
 
-  
-  
-  &lt;figcaption&gt;
-    The online engagement diagram
-  &lt;/figcaption&gt;
 
-
-&lt;/figure&gt;
+&lt;figure  id=&#34;figure-the-online-engagement-diagram&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;The online engagement diagram&#34; srcset=&#34;
+               /post/t1-digital-literacy/diagram_hu3a36459ad376d5217e3c2267f2c9e236_124286_856f37311be1e57dcb57e24c90cc9b69.webp 400w,
+               /post/t1-digital-literacy/diagram_hu3a36459ad376d5217e3c2267f2c9e236_124286_be32a10f51b585de6933133b36c3394b.webp 760w,
+               /post/t1-digital-literacy/diagram_hu3a36459ad376d5217e3c2267f2c9e236_124286_1200x1200_fit_q90_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://vhosouza.github.io/post/t1-digital-literacy/diagram_hu3a36459ad376d5217e3c2267f2c9e236_124286_856f37311be1e57dcb57e24c90cc9b69.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;538&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      The online engagement diagram
+    &lt;/figcaption&gt;&lt;/figure&gt;
 
 &lt;h2 id=&#34;references&#34;&gt;References&lt;/h2&gt;
-&lt;p&gt;
-&lt;a href=&#34;https://files.eric.ed.gov/fulltext/EJ1105611.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ozdamar-Keskin et al. (2015) &lt;em&gt;Examining Digital Literacy Competences and Learning Habits of Open and Distance Learners&lt;/em&gt;, Contemporary Educational Technology, v.6 pages 74-90.&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;
-&lt;a href=&#34;https://www.infed.org/mobi/howard-gardner-multiple-intelligences-and-education&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Smith, Mark K. (2002, 2008) &lt;em&gt;Howard Gardner and multiple intelligences&lt;/em&gt;, The encyclopedia of pedagogy and informal education.&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;
-&lt;a href=&#34;https://doi.org/10.1016/j.sbspro.2010.03.942&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Yengin et al. (2010) &lt;em&gt;Roles of teachers in e-learning: How to engage students &amp;amp; how to get free e-learning and the future&lt;/em&gt;, Procedia - Social and Behavioral Sciences, v.2 pages 5775-87.&lt;/a&gt;&lt;/p&gt;
-&lt;section class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;p&gt;&lt;a href=&#34;https://files.eric.ed.gov/fulltext/EJ1105611.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ozdamar-Keskin et al. (2015) &lt;em&gt;Examining Digital Literacy Competences and Learning Habits of Open and Distance Learners&lt;/em&gt;, Contemporary Educational Technology, v.6 pages 74-90.&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.infed.org/mobi/howard-gardner-multiple-intelligences-and-education&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Smith, Mark K. (2002, 2008) &lt;em&gt;Howard Gardner and multiple intelligences&lt;/em&gt;, The encyclopedia of pedagogy and informal education.&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://doi.org/10.1016/j.sbspro.2010.03.942&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Yengin et al. (2010) &lt;em&gt;Roles of teachers in e-learning: How to engage students &amp;amp; how to get free e-learning and the future&lt;/em&gt;, Procedia - Social and Behavioral Sciences, v.2 pages 5775-87.&lt;/a&gt;&lt;/p&gt;
+&lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
 &lt;hr&gt;
 &lt;ol&gt;
-&lt;li id=&#34;fn:1&#34; role=&#34;doc-endnote&#34;&gt;
-&lt;p&gt;&lt;strong&gt;Group 6 members:&lt;/strong&gt; Victor Souza, Mohit Gupta, Kinaz Al Aytouni, Marcus Stensmyr, Stephanie Birkner, Hui-Chen, Erik Elfgren, Vigdis Ahnfelt, Charlotta Hilli, and Cecilia Hellekant. &lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;li id=&#34;fn:1&#34;&gt;
+&lt;p&gt;&lt;strong&gt;Group 6 members:&lt;/strong&gt; Victor Souza, Mohit Gupta, Kinaz Al Aytouni, Marcus Stensmyr, Stephanie Birkner, Hui-Chen, Erik Elfgren, Vigdis Ahnfelt, Charlotta Hilli, and Cecilia Hellekant.&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
-&lt;/section&gt;
+&lt;/div&gt;
 </description>
     </item>
     

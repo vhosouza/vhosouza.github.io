@@ -1,88 +1,31 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Victor Hugo Souza</title>
+    <title>Victor H. Souza</title>
     <link>https://vhosouza.github.io/</link>
       <atom:link href="https://vhosouza.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <description>Victor Hugo Souza</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Victor Hugo Souza</copyright><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
+    <description>Victor H. Souza</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 04 Dec 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://vhosouza.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
-      <title>Victor Hugo Souza</title>
+      <url>https://vhosouza.github.io/media/icon_hu8d7500d2420c0000b894f0459714a4ed_123720_512x512_fill_lanczos_center_3.png</url>
+      <title>Victor H. Souza</title>
       <link>https://vhosouza.github.io/</link>
     </image>
     
     <item>
-      <title>Example Page 1</title>
-      <link>https://vhosouza.github.io/courses/example/example1/</link>
-      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>https://vhosouza.github.io/courses/example/example1/</guid>
-      <description>&lt;p&gt;In this tutorial, I&amp;rsquo;ll share my top 10 tips for getting started with Academic:&lt;/p&gt;
-&lt;h2 id=&#34;tip-1&#34;&gt;Tip 1&lt;/h2&gt;
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
-&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
-&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
-&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
-&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
-&lt;h2 id=&#34;tip-2&#34;&gt;Tip 2&lt;/h2&gt;
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
-&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
-&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
-&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
-&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Example Page 2</title>
-      <link>https://vhosouza.github.io/courses/example/example2/</link>
-      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>https://vhosouza.github.io/courses/example/example2/</guid>
-      <description>&lt;p&gt;Here are some more tips for getting started with Academic:&lt;/p&gt;
-&lt;h2 id=&#34;tip-3&#34;&gt;Tip 3&lt;/h2&gt;
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
-&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
-&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
-&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
-&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
-&lt;h2 id=&#34;tip-4&#34;&gt;Tip 4&lt;/h2&gt;
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
-&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
-&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
-&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
-&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Example Talk</title>
-      <link>https://vhosouza.github.io/talk/example/</link>
-      <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
-      <guid>https://vhosouza.github.io/talk/example/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Academic&amp;rsquo;s 
-&lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Slides&lt;/em&gt;&lt;/a&gt; feature and link using &lt;code&gt;slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Upload&lt;/strong&gt; an existing slide deck to &lt;code&gt;static/&lt;/code&gt; and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using 
-&lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Further talk details can easily be added to this page using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
-</description>
+      <title>Contact me</title>
+      <link>https://vhosouza.github.io/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vhosouza.github.io/contact/</guid>
+      <description></description>
     </item>
     
     <item>
       <title>Topic 5: Unfortunately, the end...</title>
-      <link>https://vhosouza.github.io/post/t5-end-copy/</link>
+      <link>https://vhosouza.github.io/post/t5-end/</link>
       <pubDate>Fri, 04 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://vhosouza.github.io/post/t5-end-copy/</guid>
-      <description>&lt;p&gt;This is a series of blog posts about my learning activities in the 
-&lt;a href=&#34;https://www.opennetworkedlearning.se/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Open Networked Learning&lt;/a&gt; (ONL202) pedagogical course.&lt;/p&gt;
+      <guid>https://vhosouza.github.io/post/t5-end/</guid>
+      <description>&lt;p&gt;This is a series of blog posts about my learning activities in the &lt;a href=&#34;https://www.opennetworkedlearning.se/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Open Networked Learning&lt;/a&gt; (ONL202) pedagogical course.&lt;/p&gt;
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     &lt;p&gt;TL;DR&lt;/p&gt;
@@ -115,14 +58,14 @@
 &lt;p&gt;Course design is one of the most important topics, but came on a period that students were already stuffed with work. I felt that, in general, people engaged a bit less in this topic than the preceding ones. So, I would like to have first the discussions on digital literacy, then study about the course design models, then address the learning in communities to finally reflect on open learning by sharing.&lt;/p&gt;
 &lt;p&gt;Overall, the group work was amazing. Through the PBL activities and follwing the FISh model really promoted an interactive and collaborative work. I realized that with approapriate design and methods it is possible to have fun and fruitful online activities in group. In my next course, I&amp;rsquo;ll certainly promote these activities and implement most of the principles I learning in the ONL. These need to be done slowly as they require more effort from the teacher, and trying to implement all at one may overwhel me, as a teacher, and the students.&lt;/p&gt;
 &lt;p&gt;Once more, I would like to thank all my colleagues from the PBL group &lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;, through which I learned so much, had lots of fun and am grateful to be part of it. Thanks Mohit, Kinaz, Marcus, Stephanie, Hui-Chen, Erik, and Vigdis, with the great guidance by Charlotta and Cecilia. 😄&lt;/p&gt;
-&lt;section class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
 &lt;hr&gt;
 &lt;ol&gt;
-&lt;li id=&#34;fn:1&#34; role=&#34;doc-endnote&#34;&gt;
-&lt;p&gt;&lt;strong&gt;Group 6 members:&lt;/strong&gt; Victor Souza, Mohit Gupta, Kinaz Al Aytouni, Marcus Stensmyr, Stephanie Birkner, Hui-Chen, Erik Elfgren, Vigdis Ahnfelt, Charlotta Hilli, and Cecilia Hellekant. &lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;li id=&#34;fn:1&#34;&gt;
+&lt;p&gt;&lt;strong&gt;Group 6 members:&lt;/strong&gt; Victor Souza, Mohit Gupta, Kinaz Al Aytouni, Marcus Stensmyr, Stephanie Birkner, Hui-Chen, Erik Elfgren, Vigdis Ahnfelt, Charlotta Hilli, and Cecilia Hellekant.&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
-&lt;/section&gt;
+&lt;/div&gt;
 </description>
     </item>
     
@@ -131,8 +74,7 @@
       <link>https://vhosouza.github.io/post/t4-blended-design/</link>
       <pubDate>Fri, 27 Nov 2020 00:00:00 +0000</pubDate>
       <guid>https://vhosouza.github.io/post/t4-blended-design/</guid>
-      <description>&lt;p&gt;This is a series of blog posts about my learning activities in the 
-&lt;a href=&#34;https://www.opennetworkedlearning.se/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Open Networked Learning&lt;/a&gt; (ONL202) pedagogical course.&lt;/p&gt;
+      <description>&lt;p&gt;This is a series of blog posts about my learning activities in the &lt;a href=&#34;https://www.opennetworkedlearning.se/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Open Networked Learning&lt;/a&gt; (ONL202) pedagogical course.&lt;/p&gt;
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     &lt;p&gt;TL;DR&lt;/p&gt;
@@ -147,23 +89,11 @@
 &lt;h2 id=&#34;frameworks-and-models-for-blended-learning&#34;&gt;Frameworks and models for blended learning&lt;/h2&gt;
 &lt;p&gt;This week, our PBL group &lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt; prepared a compass rose point to different directions each representing a framework or model to support designing a blended course. We highlighted the:&lt;/p&gt;
 &lt;ol&gt;
-&lt;li&gt;
-&lt;a href=&#34;https://blogs.ucl.ac.uk/abc-ld/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ABC Arena for Blended Learning&lt;/a&gt;: Designed at the University College London, it provides a well-structured model with step-by-step instructions on how to quickly adapt the teaching activities to online mode.&lt;/li&gt;
-&lt;li&gt;
-&lt;a href=&#34;https://www.gillysalmon.com/five-stage-model.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The 5 stage model&lt;/a&gt;: Provides a structured development process that supports the construction of better online learning.&lt;/li&gt;
-&lt;li&gt;
-&lt;a href=&#34;http://oasis.col.org/handle/11599/3095&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The Community of Inquiry&lt;/a&gt;: Introduces a framework to create a home for a community escaping from the conventional teaching styles and is based on engaging students to create paths and explore what they want to learn, taking a more flexible approach to learning.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://blogs.ucl.ac.uk/abc-ld/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ABC Arena for Blended Learning&lt;/a&gt;: Designed at the University College London, it provides a well-structured model with step-by-step instructions on how to quickly adapt the teaching activities to online mode.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.gillysalmon.com/five-stage-model.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The 5 stage model&lt;/a&gt;: Provides a structured development process that supports the construction of better online learning.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://oasis.col.org/handle/11599/3095&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The Community of Inquiry&lt;/a&gt;: Introduces a framework to create a home for a community escaping from the conventional teaching styles and is based on engaging students to create paths and explore what they want to learn, taking a more flexible approach to learning.&lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;Below, you will find a snapshot of our Compass Rose work, and 
-&lt;a href=&#34;https://miro.com/app/board/o9J_ldwqE2k=/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt; you can access the interactive board we built.&lt;/p&gt;
-
-
-
-
-
-
-  
-  
+&lt;p&gt;Below, you will find a snapshot of our Compass Rose work, and &lt;a href=&#34;https://miro.com/app/board/o9J_ldwqE2k=/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt; you can access the interactive board we built.&lt;/p&gt;
 
 
 
@@ -175,33 +105,35 @@
 
 
 
-&lt;figure id=&#34;figure-learning-in-communitieshttpsmirocomappboardo9j_ldwqe2k&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://vhosouza.github.io/post/t4-blended-design/compass-rose-learning_hu82058f3339dadd06fd0fb0ac9edc4400_150632_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;&amp;lt;a href=&amp;#34;https://miro.com/app/board/o9J_ldwqE2k=/&amp;#34;&amp;gt;Learning in communities&amp;lt;/a&amp;gt;&#34;&gt;
 
 
-  &lt;img data-src=&#34;https://vhosouza.github.io/post/t4-blended-design/compass-rose-learning_hu82058f3339dadd06fd0fb0ac9edc4400_150632_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;1730&#34; height=&#34;903&#34;&gt;
-&lt;/a&gt;
 
 
-  
-  
-  &lt;figcaption&gt;
-    &lt;a href=&#34;https://miro.com/app/board/o9J_ldwqE2k=/&#34;&gt;Learning in communities&lt;/a&gt;
-  &lt;/figcaption&gt;
 
+&lt;figure  id=&#34;figure-learning-in-communitieshttpsmirocomappboardo9j_ldwqe2k&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;[Learning in communities](https://miro.com/app/board/o9J_ldwqE2k=/)&#34; srcset=&#34;
+               /post/t4-blended-design/compass-rose-learning_hu82058f3339dadd06fd0fb0ac9edc4400_150632_f24ccef84508764443bc12d4368a5696.webp 400w,
+               /post/t4-blended-design/compass-rose-learning_hu82058f3339dadd06fd0fb0ac9edc4400_150632_b723cc81a10ce2bc58c2bd43f7e0e941.webp 760w,
+               /post/t4-blended-design/compass-rose-learning_hu82058f3339dadd06fd0fb0ac9edc4400_150632_1200x1200_fit_q90_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://vhosouza.github.io/post/t4-blended-design/compass-rose-learning_hu82058f3339dadd06fd0fb0ac9edc4400_150632_f24ccef84508764443bc12d4368a5696.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;396&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      &lt;a href=&#34;https://miro.com/app/board/o9J_ldwqE2k=/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Learning in communities&lt;/a&gt;
+    &lt;/figcaption&gt;&lt;/figure&gt;
 
-&lt;/figure&gt;
-
-&lt;section class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
 &lt;hr&gt;
 &lt;ol&gt;
-&lt;li id=&#34;fn:1&#34; role=&#34;doc-endnote&#34;&gt;
-&lt;p&gt;&lt;strong&gt;Group 6 members:&lt;/strong&gt; Victor Souza, Mohit Gupta, Kinaz Al Aytouni, Marcus Stensmyr, Stephanie Birkner, Hui-Chen, Erik Elfgren, Vigdis Ahnfelt, Charlotta Hilli, and Cecilia Hellekant. &lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;li id=&#34;fn:1&#34;&gt;
+&lt;p&gt;&lt;strong&gt;Group 6 members:&lt;/strong&gt; Victor Souza, Mohit Gupta, Kinaz Al Aytouni, Marcus Stensmyr, Stephanie Birkner, Hui-Chen, Erik Elfgren, Vigdis Ahnfelt, Charlotta Hilli, and Cecilia Hellekant.&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
-&lt;/section&gt;
+&lt;/div&gt;
 </description>
     </item>
     
@@ -210,8 +142,7 @@
       <link>https://vhosouza.github.io/post/t3-collab-coop/</link>
       <pubDate>Sun, 15 Nov 2020 00:00:00 +0000</pubDate>
       <guid>https://vhosouza.github.io/post/t3-collab-coop/</guid>
-      <description>&lt;p&gt;This is a series of blog posts about my learning activities in the 
-&lt;a href=&#34;https://www.opennetworkedlearning.se/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Open Networked Learning&lt;/a&gt; (ONL202) pedagogical course.&lt;/p&gt;
+      <description>&lt;p&gt;This is a series of blog posts about my learning activities in the &lt;a href=&#34;https://www.opennetworkedlearning.se/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Open Networked Learning&lt;/a&gt; (ONL202) pedagogical course.&lt;/p&gt;
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     &lt;p&gt;TL;DR&lt;/p&gt;
@@ -221,8 +152,7 @@ Teachers should account for each student characteristics and design group activi
 &lt;/div&gt;
 &lt;h2 id=&#34;collaborative-x-network-learning&#34;&gt;Collaborative x network learning&lt;/h2&gt;
 &lt;p&gt;There is a great challenge in current higher education in achieving collaborative learning. In most cases, group activies are designed in a way that the level of engagement between students vary considerably. In online courses, the situation is even more critical as digital literacy may hinder some student&amp;rsquo;s participation. In this context, teachers play an important role in designing the courses and activities to foster a collaborative and active participation of the students, promoting learning in communities through joint, fun steps.&lt;/p&gt;
-&lt;p&gt;The pedagogical training provided at Aalto University has been an eye-opening for the benefits of network and collaborative learning. Especifically, the 
-&lt;a href=&#34;https://www.opennetworkedlearning.se/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ONL202&lt;/a&gt; activities have demonstrated the feasibility of real collaborative learning through the problem based learning (&lt;strong&gt;PBL&lt;/strong&gt;) groups led by two facilitators. The interesting feature about ONL202 is we construct our knowledge based on the experiences shared by our teammates and through the process of accomplishing the necessary tasks. We not only support the work of our colleagues (&lt;u&gt;cooperation&lt;/u&gt;) but we also build together (&lt;u&gt;collaboration&lt;/u&gt;) solutions to common learning problems.&lt;/p&gt;
+&lt;p&gt;The pedagogical training provided at Aalto University has been an eye-opening for the benefits of network and collaborative learning. Especifically, the &lt;a href=&#34;https://www.opennetworkedlearning.se/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ONL202&lt;/a&gt; activities have demonstrated the feasibility of real collaborative learning through the problem based learning (&lt;strong&gt;PBL&lt;/strong&gt;) groups led by two facilitators. The interesting feature about ONL202 is we construct our knowledge based on the experiences shared by our teammates and through the process of accomplishing the necessary tasks. We not only support the work of our colleagues (&lt;u&gt;cooperation&lt;/u&gt;) but we also build together (&lt;u&gt;collaboration&lt;/u&gt;) solutions to common learning problems.&lt;/p&gt;
 &lt;p&gt;Working in a research group in a University, my Personal Learning Network is strongly populated with my work peers. Luckily, I also have strong learning connections with my parents and relatives. Both my parents and many of my close relatives are teachers, which created in my childhood an environment based on learning activities.&lt;/p&gt;
 &lt;p&gt;One special link that is part of anyone&amp;rsquo;s learning network is the internet. Nowadays, the new standard is to learn through the myriad of content, e.g., videos, blogs, openly available in the internet. Therefore, technological advances and the building up of social networks have enabled the expansions of our own personal learning network beyond our daily circle. Looking from outside, openness and sharing are the pillars of network learning in current society. But it&amp;rsquo;s important to note that collaborative activies are necessary in higher education. For the differences between collaborative and network learning, check the slide below prepared by our PBL group &lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
 
@@ -231,8 +161,6 @@ Teachers should account for each student characteristics and design group activi
 
 
 
-  
-  
 
 
 
@@ -244,36 +172,31 @@ Teachers should account for each student characteristics and design group activi
 
 
 
-&lt;figure id=&#34;figure-learning-in-communitieshttpsdocsgooglecompresentationd1nwemuoftu__mfg5w5zkisf_r3cluvtdwp0u0njqiqtyedituspsharing&#34;&gt;
 
-
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://vhosouza.github.io/post/t3-collab-coop/diff-network-community_hucf9649b6d163c10adaea5b93f042eba2_94042_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;&amp;lt;a href=&amp;#34;https://docs.google.com/presentation/d/1nwEmUoFtU__mFg5W5zkIsF_r3CLuVtDwP0u0njQiQTY/edit?usp=sharing&amp;#34;&amp;gt;Learning in communities&amp;lt;/a&amp;gt;&#34;&gt;
-
-
-  &lt;img data-src=&#34;https://vhosouza.github.io/post/t3-collab-coop/diff-network-community_hucf9649b6d163c10adaea5b93f042eba2_94042_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;960&#34; height=&#34;540&#34;&gt;
-&lt;/a&gt;
-
-
-  
-  
-  &lt;figcaption&gt;
-    &lt;a href=&#34;https://docs.google.com/presentation/d/1nwEmUoFtU__mFg5W5zkIsF_r3CLuVtDwP0u0njQiQTY/edit?usp=sharing&#34;&gt;Learning in communities&lt;/a&gt;
-  &lt;/figcaption&gt;
-
-
-&lt;/figure&gt;
+&lt;figure  id=&#34;figure-learning-in-communitieshttpsdocsgooglecompresentationd1nwemuoftu__mfg5w5zkisf_r3cluvtdwp0u0njqiqtyedituspsharing&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;[Learning in communities](https://docs.google.com/presentation/d/1nwEmUoFtU__mFg5W5zkIsF_r3CLuVtDwP0u0njQiQTY/edit?usp=sharing)&#34; srcset=&#34;
+               /post/t3-collab-coop/diff-network-community_hucf9649b6d163c10adaea5b93f042eba2_94042_e64feed1734a1efcf93da4bb9f65013b.webp 400w,
+               /post/t3-collab-coop/diff-network-community_hucf9649b6d163c10adaea5b93f042eba2_94042_0931e444941ee100758c90ea9432bbe3.webp 760w,
+               /post/t3-collab-coop/diff-network-community_hucf9649b6d163c10adaea5b93f042eba2_94042_1200x1200_fit_q90_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://vhosouza.github.io/post/t3-collab-coop/diff-network-community_hucf9649b6d163c10adaea5b93f042eba2_94042_e64feed1734a1efcf93da4bb9f65013b.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;428&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      &lt;a href=&#34;https://docs.google.com/presentation/d/1nwEmUoFtU__mFg5W5zkIsF_r3CLuVtDwP0u0njQiQTY/edit?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Learning in communities&lt;/a&gt;
+    &lt;/figcaption&gt;&lt;/figure&gt;
 
 &lt;h2 id=&#34;towards-collaborative-learning&#34;&gt;Towards collaborative learning&lt;/h2&gt;
-&lt;p&gt;We (PBL group &lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;) prepared a few slides with some relevant tips for designing courses to encourage students to collaborate, work in groups, and a few strategies to support teachers when implementing collaborative learning. Feel free to take a look at it 
-&lt;a href=&#34;https://docs.google.com/presentation/d/1nwEmUoFtU__mFg5W5zkIsF_r3CLuVtDwP0u0njQiQTY/edit?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
-&lt;section class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;p&gt;We (PBL group &lt;sup id=&#34;fnref1:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;) prepared a few slides with some relevant tips for designing courses to encourage students to collaborate, work in groups, and a few strategies to support teachers when implementing collaborative learning. Feel free to take a look at it &lt;a href=&#34;https://docs.google.com/presentation/d/1nwEmUoFtU__mFg5W5zkIsF_r3CLuVtDwP0u0njQiQTY/edit?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
 &lt;hr&gt;
 &lt;ol&gt;
-&lt;li id=&#34;fn:1&#34; role=&#34;doc-endnote&#34;&gt;
-&lt;p&gt;&lt;strong&gt;Group 6 members:&lt;/strong&gt; Victor Souza, Mohit Gupta, Kinaz Al Aytouni, Marcus Stensmyr, Stephanie Birkner, Hui-Chen, Erik Elfgren, Vigdis Ahnfelt, Charlotta Hilli, and Cecilia Hellekant. &lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;li id=&#34;fn:1&#34;&gt;
+&lt;p&gt;&lt;strong&gt;Group 6 members:&lt;/strong&gt; Victor Souza, Mohit Gupta, Kinaz Al Aytouni, Marcus Stensmyr, Stephanie Birkner, Hui-Chen, Erik Elfgren, Vigdis Ahnfelt, Charlotta Hilli, and Cecilia Hellekant.&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&amp;#160;&lt;a href=&#34;#fnref1:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
-&lt;/section&gt;
+&lt;/div&gt;
 </description>
     </item>
     
@@ -282,8 +205,7 @@ Teachers should account for each student characteristics and design group activi
       <link>https://vhosouza.github.io/post/t2-open-education/</link>
       <pubDate>Sun, 25 Oct 2020 00:00:00 +0000</pubDate>
       <guid>https://vhosouza.github.io/post/t2-open-education/</guid>
-      <description>&lt;p&gt;This is a series of blog posts about my learning activities in the 
-&lt;a href=&#34;https://www.opennetworkedlearning.se/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Open Networked Learning&lt;/a&gt; (ONL202) pedagogical course.&lt;/p&gt;
+      <description>&lt;p&gt;This is a series of blog posts about my learning activities in the &lt;a href=&#34;https://www.opennetworkedlearning.se/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Open Networked Learning&lt;/a&gt; (ONL202) pedagogical course.&lt;/p&gt;
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     &lt;p&gt;TL;DR&lt;/p&gt;
@@ -297,16 +219,7 @@ Teachers should account for each student characteristics and design group activi
 &lt;/div&gt;
 
 &lt;h2 id=&#34;the-road-to-open-education&#34;&gt;The road to Open Education&lt;/h2&gt;
-&lt;p&gt;Our (PBL group &lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;) prepared a presentation to introduce the road to Open Education for someone interested in joining this endeavour. You can navigate through 
-&lt;a href=&#34;https://prezi.com/view/IsV78cBtrhSEGa3rMX2a/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;the road&lt;/a&gt; from the &lt;strong&gt;Start&lt;/strong&gt;, where we gathered some useful tools that can be used to prepare and make available open courses. It&amp;rsquo;s very important to remember that this is a joint effort between the teacher and the institution. Openning a course can be time consuming and requires &lt;strong&gt;strong support&lt;/strong&gt; from colleagues, admnistration, and staff. On the path to openness, additional care should be taken with copyrights, ethical and privacy issues, and so on. Nonetheless, the ultimate benefits and impacts might manifest as a more inclusive and equal society, promote personal development and critical thinking, and lastly create a community of people that share and exchange knowledge.&lt;/p&gt;
-
-
-
-
-
-
-  
-  
+&lt;p&gt;Our (PBL group &lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;) prepared a presentation to introduce the road to Open Education for someone interested in joining this endeavour. You can navigate through &lt;a href=&#34;https://prezi.com/view/IsV78cBtrhSEGa3rMX2a/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;the road&lt;/a&gt; from the &lt;strong&gt;Start&lt;/strong&gt;, where we gathered some useful tools that can be used to prepare and make available open courses. It&amp;rsquo;s very important to remember that this is a joint effort between the teacher and the institution. Openning a course can be time consuming and requires &lt;strong&gt;strong support&lt;/strong&gt; from colleagues, admnistration, and staff. On the path to openness, additional care should be taken with copyrights, ethical and privacy issues, and so on. Nonetheless, the ultimate benefits and impacts might manifest as a more inclusive and equal society, promote personal development and critical thinking, and lastly create a community of people that share and exchange knowledge.&lt;/p&gt;
 
 
 
@@ -318,41 +231,40 @@ Teachers should account for each student characteristics and design group activi
 
 
 
-&lt;figure id=&#34;figure-the-road-to-open-educationhttpsprezicomviewisv78cbtrhsega3rmx2a&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://vhosouza.github.io/post/t2-open-education/road_open_ed_hudfdf1710a36f450865ed16a2a4edfe53_1490884_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;&amp;lt;a href=&amp;#34;https://prezi.com/view/IsV78cBtrhSEGa3rMX2a/&amp;#34;&amp;gt;The road to open education&amp;lt;/a&amp;gt;&#34;&gt;
 
 
-  &lt;img data-src=&#34;https://vhosouza.github.io/post/t2-open-education/road_open_ed_hudfdf1710a36f450865ed16a2a4edfe53_1490884_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;1457&#34; height=&#34;812&#34;&gt;
-&lt;/a&gt;
 
 
-  
-  
-  &lt;figcaption&gt;
-    &lt;a href=&#34;https://prezi.com/view/IsV78cBtrhSEGa3rMX2a/&#34;&gt;The road to open education&lt;/a&gt;
-  &lt;/figcaption&gt;
 
-
-&lt;/figure&gt;
+&lt;figure  id=&#34;figure-the-road-to-open-educationhttpsprezicomviewisv78cbtrhsega3rmx2a&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;[The road to open education](https://prezi.com/view/IsV78cBtrhSEGa3rMX2a/)&#34; srcset=&#34;
+               /post/t2-open-education/road_open_ed_hudfdf1710a36f450865ed16a2a4edfe53_1490884_cd436ba7c667a2ff36168b1075c44e97.webp 400w,
+               /post/t2-open-education/road_open_ed_hudfdf1710a36f450865ed16a2a4edfe53_1490884_43bc2e42259d46a8d4e5f70a7724940b.webp 760w,
+               /post/t2-open-education/road_open_ed_hudfdf1710a36f450865ed16a2a4edfe53_1490884_1200x1200_fit_q90_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://vhosouza.github.io/post/t2-open-education/road_open_ed_hudfdf1710a36f450865ed16a2a4edfe53_1490884_cd436ba7c667a2ff36168b1075c44e97.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;424&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      &lt;a href=&#34;https://prezi.com/view/IsV78cBtrhSEGa3rMX2a/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The road to open education&lt;/a&gt;
+    &lt;/figcaption&gt;&lt;/figure&gt;
 
 &lt;h2 id=&#34;references&#34;&gt;References&lt;/h2&gt;
 &lt;p&gt;A few interesting scientific publications about Open Education&lt;/p&gt;
-&lt;p&gt;
-&lt;a href=&#34;https://doi.org/10.14742/ajet.4252&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Bozkurt et. al (2019) &lt;em&gt;An analysis of peer reviewed publications on openness in education in half a century: Trends and patterns in the open hemisphere&lt;/em&gt;, Australasian Journal of Educational Technology, v.35&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;
-&lt;a href=&#34;https://doi.org/10.6087/kcse.97&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Seo et al. (2017) &lt;em&gt;Equality, equity, and reality of open access on scholarly information&lt;/em&gt;, Science Editing, v.4&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;
-&lt;a href=&#34;https://doi.org/10.1016/j.sbspro.2016.07.094&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Khalid et. al (2016) &lt;em&gt;Digital Exclusion in Higher Education Contexts: A Systematic Literature Review&lt;/em&gt;, Procedia - Social and Behavioral Sciences, v.228&lt;/a&gt;&lt;/p&gt;
-&lt;section class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;p&gt;&lt;a href=&#34;https://doi.org/10.14742/ajet.4252&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Bozkurt et. al (2019) &lt;em&gt;An analysis of peer reviewed publications on openness in education in half a century: Trends and patterns in the open hemisphere&lt;/em&gt;, Australasian Journal of Educational Technology, v.35&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://doi.org/10.6087/kcse.97&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Seo et al. (2017) &lt;em&gt;Equality, equity, and reality of open access on scholarly information&lt;/em&gt;, Science Editing, v.4&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://doi.org/10.1016/j.sbspro.2016.07.094&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Khalid et. al (2016) &lt;em&gt;Digital Exclusion in Higher Education Contexts: A Systematic Literature Review&lt;/em&gt;, Procedia - Social and Behavioral Sciences, v.228&lt;/a&gt;&lt;/p&gt;
+&lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
 &lt;hr&gt;
 &lt;ol&gt;
-&lt;li id=&#34;fn:1&#34; role=&#34;doc-endnote&#34;&gt;
-&lt;p&gt;&lt;strong&gt;Group 6 members:&lt;/strong&gt; Victor Souza, Mohit Gupta, Kinaz Al Aytouni, Marcus Stensmyr, Stephanie Birkner, Hui-Chen, Erik Elfgren, Vigdis Ahnfelt, Charlotta Hilli, and Cecilia Hellekant. &lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;li id=&#34;fn:1&#34;&gt;
+&lt;p&gt;&lt;strong&gt;Group 6 members:&lt;/strong&gt; Victor Souza, Mohit Gupta, Kinaz Al Aytouni, Marcus Stensmyr, Stephanie Birkner, Hui-Chen, Erik Elfgren, Vigdis Ahnfelt, Charlotta Hilli, and Cecilia Hellekant.&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
-&lt;/section&gt;
+&lt;/div&gt;
 </description>
     </item>
     
@@ -361,8 +273,7 @@ Teachers should account for each student characteristics and design group activi
       <link>https://vhosouza.github.io/post/t1-digital-literacy/</link>
       <pubDate>Fri, 09 Oct 2020 00:00:00 +0000</pubDate>
       <guid>https://vhosouza.github.io/post/t1-digital-literacy/</guid>
-      <description>&lt;p&gt;This is a series of blog posts about my learning activities in the 
-&lt;a href=&#34;https://www.opennetworkedlearning.se/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Open Networked Learning&lt;/a&gt; (ONL202) pedagogical course.&lt;/p&gt;
+      <description>&lt;p&gt;This is a series of blog posts about my learning activities in the &lt;a href=&#34;https://www.opennetworkedlearning.se/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Open Networked Learning&lt;/a&gt; (ONL202) pedagogical course.&lt;/p&gt;
 &lt;p&gt;We are living in an exciting era with high demand for teaching digitalization. I hope that my posts will bring useful information for everyone interested in pedagogy and online learning.&lt;/p&gt;
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
@@ -378,8 +289,7 @@ Teachers should account for each student characteristics and design group activi
 &lt;/div&gt;
 &lt;p&gt;Digitalization opens many new possibilities to improve teaching and learning in multiple levels. Teachers are now capable of providing more diverse, accessible practices that suit well each kind of intelligence and social background. However, fostering online participation and engagement with online tools requires that both teachers and students are reasonably comfortable and literate in digital technologies. These requirements are potentially dangerous in segregating those students with limited online access and may also bring more stress and additional load to the teachers to handle. &lt;strong&gt;Here, I discuss a few points to assist teachers on making better use of the digital environment to foster better learning practices.&lt;/strong&gt;&lt;/p&gt;
 &lt;h2 id=&#34;1-the-visitor-and-residents-map&#34;&gt;1. The visitor and residents map&lt;/h2&gt;
-&lt;p&gt;David White presented the interesting 
-&lt;a href=&#34;https://en.wikipedia.org/wiki/Digital_Visitor_and_Resident&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Visitor and Resident&lt;/a&gt; framework to map how we engage with different digital tools. In this chart, one drafts a two-axis chart with Visitor and Resident on the limits of the X axis and Personal and Work on the limits of the Y axis. Then, the person is free to place any number of digital tools (e.g., e-mail, office software, YouTube, blogs) in the chart to illustrate how he/she considers to use these tools in the personal and work context.&lt;/p&gt;
+&lt;p&gt;David White presented the interesting &lt;a href=&#34;https://en.wikipedia.org/wiki/Digital_Visitor_and_Resident&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Visitor and Resident&lt;/a&gt; framework to map how we engage with different digital tools. In this chart, one drafts a two-axis chart with Visitor and Resident on the limits of the X axis and Personal and Work on the limits of the Y axis. Then, the person is free to place any number of digital tools (e.g., e-mail, office software, YouTube, blogs) in the chart to illustrate how he/she considers to use these tools in the personal and work context.&lt;/p&gt;
 &lt;p&gt;The visitor and resident map can be quite useful for a teacher as a breaking-the-ice activity in the begining of a course, to get to know better the students&amp;rsquo; engagement with the online world, and subsequently tailor the learning activities accordingly. In the video below, David White makes an elegant and quick introduction to the Vistor and Resident model.&lt;/p&gt;
 
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
@@ -387,8 +297,7 @@ Teachers should account for each student characteristics and design group activi
 &lt;/div&gt;
 
 &lt;h2 id=&#34;2-multiple-intelligences&#34;&gt;2. Multiple intelligences&lt;/h2&gt;
-&lt;p&gt;We, human beings, exhibit a diverse set of intelligences, which are nicely described by Howard Gardner&amp;rsquo;s work on multiple intelligence and education (
-&lt;a href=&#34;#references&#34;&gt;Smith, Mark K.; 2002, 2008&lt;/a&gt;). Teachers should be aware that each student may learn through different means. Gardner&amp;rsquo;s theory propose the following multiple intelligences:&lt;/p&gt;
+&lt;p&gt;We, human beings, exhibit a diverse set of intelligences, which are nicely described by Howard Gardner&amp;rsquo;s work on multiple intelligence and education (&lt;a href=&#34;#references&#34;&gt;Smith, Mark K.; 2002, 2008&lt;/a&gt;). Teachers should be aware that each student may learn through different means. Gardner&amp;rsquo;s theory propose the following multiple intelligences:&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;Linguistic&lt;/li&gt;
 &lt;li&gt;Logical-mathematical&lt;/li&gt;
@@ -398,8 +307,7 @@ Teachers should account for each student characteristics and design group activi
 &lt;li&gt;Interpersonal&lt;/li&gt;
 &lt;li&gt;Intrapersonal&lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;We could add another type of intelligence, the &lt;strong&gt;Digital intelligence&lt;/strong&gt;, which shapes how we absorb information, interact, and create knowledge through digital means. Childrens and adolescentes have been already exposed through their whole lifes to digital technologies, in the form of games, online activities, and social interactions. In this scenario, the digital world creates a novel intelligence that also contributes to how we learn through digital means. Putting yourself in the younger&amp;rsquo;s perspective, you will probably realize that it&amp;rsquo;s getting harder to think how can we learn something if we can&amp;rsquo;t search or interact with it online. You can navigate through our 
-&lt;a href=&#34;https://miro.com/app/board/o9J_ktd8SVw=/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Miro board&lt;/a&gt; to explore the content we created.&lt;/p&gt;
+&lt;p&gt;We could add another type of intelligence, the &lt;strong&gt;Digital intelligence&lt;/strong&gt;, which shapes how we absorb information, interact, and create knowledge through digital means. Childrens and adolescentes have been already exposed through their whole lifes to digital technologies, in the form of games, online activities, and social interactions. In this scenario, the digital world creates a novel intelligence that also contributes to how we learn through digital means. Putting yourself in the younger&amp;rsquo;s perspective, you will probably realize that it&amp;rsquo;s getting harder to think how can we learn something if we can&amp;rsquo;t search or interact with it online. You can navigate through our &lt;a href=&#34;https://miro.com/app/board/o9J_ktd8SVw=/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Miro board&lt;/a&gt; to explore the content we created.&lt;/p&gt;
 &lt;h2 id=&#34;3-online-engagement-how-to-improve-it&#34;&gt;3. Online engagement: How to improve it?&lt;/h2&gt;
 &lt;p&gt;As a group effort, we (Group 6&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;) created the DigiLit Fish (figure below) as a diagram with questions and answers (recommendations) on how to improve the online participation and student engagement in the digital learning spaces.&lt;/p&gt;
 
@@ -408,8 +316,6 @@ Teachers should account for each student characteristics and design group activi
 
 
 
-  
-  
 
 
 
@@ -421,41 +327,24 @@ Teachers should account for each student characteristics and design group activi
 
 
 
-&lt;figure id=&#34;figure-the-digilit-fish-by-group-6-onl202httpsmirocomappboardo9j_ktd8svw&#34;&gt;
 
+&lt;figure  id=&#34;figure-the-digilit-fish-by-group-6-onl202httpsmirocomappboardo9j_ktd8svw&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;[The DigiLit Fish by Group 6 ONL202](https://miro.com/app/board/o9J_ktd8SVw=/)&#34; srcset=&#34;
+               /post/t1-digital-literacy/digilit_fish_hu7b62577adf0573e3a571618bde5344e0_463813_1f29304dc710cb11bffc21c4fb50a029.webp 400w,
+               /post/t1-digital-literacy/digilit_fish_hu7b62577adf0573e3a571618bde5344e0_463813_4714ed84f34c1e037714acb3ae315c58.webp 760w,
+               /post/t1-digital-literacy/digilit_fish_hu7b62577adf0573e3a571618bde5344e0_463813_1200x1200_fit_q90_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://vhosouza.github.io/post/t1-digital-literacy/digilit_fish_hu7b62577adf0573e3a571618bde5344e0_463813_1f29304dc710cb11bffc21c4fb50a029.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;460&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      &lt;a href=&#34;https://miro.com/app/board/o9J_ktd8SVw=/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The DigiLit Fish by Group 6 ONL202&lt;/a&gt;
+    &lt;/figcaption&gt;&lt;/figure&gt;
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://vhosouza.github.io/post/t1-digital-literacy/digilit_fish_hu7b62577adf0573e3a571618bde5344e0_463813_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;&amp;lt;a href=&amp;#34;https://miro.com/app/board/o9J_ktd8SVw=/&amp;#34;&amp;gt;The DigiLit Fish by Group 6 ONL202&amp;lt;/a&amp;gt;&#34;&gt;
-
-
-  &lt;img data-src=&#34;https://vhosouza.github.io/post/t1-digital-literacy/digilit_fish_hu7b62577adf0573e3a571618bde5344e0_463813_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;1973&#34; height=&#34;1193&#34;&gt;
-&lt;/a&gt;
-
-
-  
-  
-  &lt;figcaption&gt;
-    &lt;a href=&#34;https://miro.com/app/board/o9J_ktd8SVw=/&#34;&gt;The DigiLit Fish by Group 6 ONL202&lt;/a&gt;
-  &lt;/figcaption&gt;
-
-
-&lt;/figure&gt;
-
-&lt;p&gt;Promoting online engagement is a difficult task that requires full consideration of the cultural background, tools, and participants&amp;rsquo; roles (teachers and students) (
-&lt;a href=&#34;#references&#34;&gt;Yengin et al., 2010&lt;/a&gt;). Cultural and social background defines several aspects of the digital literacy. For example, different than in classical lectures, in online teaching the students might know better how to use digital tools than the teachers, switching the role with the teacher. Teachers should be prepared to benefit from this situation.&lt;/p&gt;
-&lt;p&gt;The selected tools for teaching should be clearly introduced and selected to promote inclusion of every student, considering possible access limitations and how they operate as 
-&lt;a href=&#34;#1-the-visitor-and-residents-map&#34;&gt;visitors or residents&lt;/a&gt;. There are a plethora of webpages that compiled available free online tools for teaching, for instance 
-&lt;a href=&#34;https://opensource.com/article/20/4/open-source-remote-teaching-tools&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt; and 
-&lt;a href=&#34;https://elearningindustry.com/321-free-tools-for-teachers-free-educational-technology&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;We may assume that students can easily adapt to novel technologies, however, clear training and instructions would possibly contribute to a more efficient learning and online engagement (
-&lt;a href=&#34;#references&#34;&gt;Ozdamar-Keskin et al., 2015&lt;/a&gt;).&lt;/p&gt;
-
-
-
-
-
-
-  
-  
+&lt;p&gt;Promoting online engagement is a difficult task that requires full consideration of the cultural background, tools, and participants&amp;rsquo; roles (teachers and students) (&lt;a href=&#34;#references&#34;&gt;Yengin et al., 2010&lt;/a&gt;). Cultural and social background defines several aspects of the digital literacy. For example, different than in classical lectures, in online teaching the students might know better how to use digital tools than the teachers, switching the role with the teacher. Teachers should be prepared to benefit from this situation.&lt;/p&gt;
+&lt;p&gt;The selected tools for teaching should be clearly introduced and selected to promote inclusion of every student, considering possible access limitations and how they operate as &lt;a href=&#34;#1-the-visitor-and-residents-map&#34;&gt;visitors or residents&lt;/a&gt;. There are a plethora of webpages that compiled available free online tools for teaching, for instance &lt;a href=&#34;https://opensource.com/article/20/4/open-source-remote-teaching-tools&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt; and &lt;a href=&#34;https://elearningindustry.com/321-free-tools-for-teachers-free-educational-technology&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;We may assume that students can easily adapt to novel technologies, however, clear training and instructions would possibly contribute to a more efficient learning and online engagement (&lt;a href=&#34;#references&#34;&gt;Ozdamar-Keskin et al., 2015&lt;/a&gt;).&lt;/p&gt;
 
 
 
@@ -467,57 +356,40 @@ Teachers should account for each student characteristics and design group activi
 
 
 
-&lt;figure id=&#34;figure-the-online-engagement-diagram&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://vhosouza.github.io/post/t1-digital-literacy/diagram_hu3a36459ad376d5217e3c2267f2c9e236_124286_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;The online engagement diagram&#34;&gt;
 
 
-  &lt;img data-src=&#34;https://vhosouza.github.io/post/t1-digital-literacy/diagram_hu3a36459ad376d5217e3c2267f2c9e236_124286_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;1692&#34; height=&#34;1197&#34;&gt;
-&lt;/a&gt;
 
 
-  
-  
-  &lt;figcaption&gt;
-    The online engagement diagram
-  &lt;/figcaption&gt;
 
-
-&lt;/figure&gt;
+&lt;figure  id=&#34;figure-the-online-engagement-diagram&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;The online engagement diagram&#34; srcset=&#34;
+               /post/t1-digital-literacy/diagram_hu3a36459ad376d5217e3c2267f2c9e236_124286_856f37311be1e57dcb57e24c90cc9b69.webp 400w,
+               /post/t1-digital-literacy/diagram_hu3a36459ad376d5217e3c2267f2c9e236_124286_be32a10f51b585de6933133b36c3394b.webp 760w,
+               /post/t1-digital-literacy/diagram_hu3a36459ad376d5217e3c2267f2c9e236_124286_1200x1200_fit_q90_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://vhosouza.github.io/post/t1-digital-literacy/diagram_hu3a36459ad376d5217e3c2267f2c9e236_124286_856f37311be1e57dcb57e24c90cc9b69.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;538&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      The online engagement diagram
+    &lt;/figcaption&gt;&lt;/figure&gt;
 
 &lt;h2 id=&#34;references&#34;&gt;References&lt;/h2&gt;
-&lt;p&gt;
-&lt;a href=&#34;https://files.eric.ed.gov/fulltext/EJ1105611.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ozdamar-Keskin et al. (2015) &lt;em&gt;Examining Digital Literacy Competences and Learning Habits of Open and Distance Learners&lt;/em&gt;, Contemporary Educational Technology, v.6 pages 74-90.&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;
-&lt;a href=&#34;https://www.infed.org/mobi/howard-gardner-multiple-intelligences-and-education&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Smith, Mark K. (2002, 2008) &lt;em&gt;Howard Gardner and multiple intelligences&lt;/em&gt;, The encyclopedia of pedagogy and informal education.&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;
-&lt;a href=&#34;https://doi.org/10.1016/j.sbspro.2010.03.942&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Yengin et al. (2010) &lt;em&gt;Roles of teachers in e-learning: How to engage students &amp;amp; how to get free e-learning and the future&lt;/em&gt;, Procedia - Social and Behavioral Sciences, v.2 pages 5775-87.&lt;/a&gt;&lt;/p&gt;
-&lt;section class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;p&gt;&lt;a href=&#34;https://files.eric.ed.gov/fulltext/EJ1105611.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ozdamar-Keskin et al. (2015) &lt;em&gt;Examining Digital Literacy Competences and Learning Habits of Open and Distance Learners&lt;/em&gt;, Contemporary Educational Technology, v.6 pages 74-90.&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.infed.org/mobi/howard-gardner-multiple-intelligences-and-education&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Smith, Mark K. (2002, 2008) &lt;em&gt;Howard Gardner and multiple intelligences&lt;/em&gt;, The encyclopedia of pedagogy and informal education.&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://doi.org/10.1016/j.sbspro.2010.03.942&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Yengin et al. (2010) &lt;em&gt;Roles of teachers in e-learning: How to engage students &amp;amp; how to get free e-learning and the future&lt;/em&gt;, Procedia - Social and Behavioral Sciences, v.2 pages 5775-87.&lt;/a&gt;&lt;/p&gt;
+&lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
 &lt;hr&gt;
 &lt;ol&gt;
-&lt;li id=&#34;fn:1&#34; role=&#34;doc-endnote&#34;&gt;
-&lt;p&gt;&lt;strong&gt;Group 6 members:&lt;/strong&gt; Victor Souza, Mohit Gupta, Kinaz Al Aytouni, Marcus Stensmyr, Stephanie Birkner, Hui-Chen, Erik Elfgren, Vigdis Ahnfelt, Charlotta Hilli, and Cecilia Hellekant. &lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;li id=&#34;fn:1&#34;&gt;
+&lt;p&gt;&lt;strong&gt;Group 6 members:&lt;/strong&gt; Victor Souza, Mohit Gupta, Kinaz Al Aytouni, Marcus Stensmyr, Stephanie Birkner, Hui-Chen, Erik Elfgren, Vigdis Ahnfelt, Charlotta Hilli, and Cecilia Hellekant.&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
-&lt;/section&gt;
+&lt;/div&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Contact Page</title>
-      <link>https://vhosouza.github.io/contact/</link>
-      <pubDate>Sun, 06 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>https://vhosouza.github.io/contact/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Experience Page</title>
-      <link>https://vhosouza.github.io/experience/</link>
-      <pubDate>Sun, 06 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>https://vhosouza.github.io/experience/</guid>
-      <description></description>
     </item>
     
     <item>
@@ -525,16 +397,10 @@ Teachers should account for each student characteristics and design group activi
       <link>https://vhosouza.github.io/software/invesalius/</link>
       <pubDate>Sun, 06 Sep 2020 00:00:00 +0000</pubDate>
       <guid>https://vhosouza.github.io/software/invesalius/</guid>
-      <description>&lt;p&gt;Check the InVesalius Navigator publication 
-&lt;a href=&#34;https://vhosouza.github.io/publication/invesalius-navigator/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+      <description>&lt;p&gt;Check the InVesalius Navigator publication &lt;a href=&#34;https://vhosouza.github.io/publication/invesalius-navigator/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;InVesalius Navigator&amp;rsquo;s main features are the manipulation, visualization, and editing of medical images from nuclear magnetic resonance, computed tomography, and three dimensional scanners. The neuronavigation is performed using a spatial tracking device, making it possible to identify in real time the positioning of an object, such as a TMS coil, improving the accuracy of neurosurgical planning and brain stimulation methods.&lt;/p&gt;
-&lt;p&gt;The software has been developed since October, 2008 as part of the InVesalius project from the 
-&lt;a href=&#34;https://www.cti.gov.br/en/invesalius&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Renato Archer Information Technology Center&lt;/a&gt; of the Ministry of Science and Technology, Brazil. InVesalius is written in Python 3 and is compatible with several models of spatial tracking devices, such as the 
-&lt;a href=&#34;https://www.ndigital.com/medical/products/polaris-family/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NDI Polaris&lt;/a&gt;, 
-&lt;a href=&#34;https://polhemus.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Polhemus&lt;/a&gt; Patriot, Isotrak, Fastrak, and 
-&lt;a href=&#34;https://www.claronav.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ClaroNav&lt;/a&gt; MicronTracker Sx60.&lt;/p&gt;
-&lt;p&gt;The source code is hosted on 
-&lt;a href=&#34;https://github.com/invesalius/invesalius3&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitHub&lt;/a&gt;. A tutorial on how to use the TMS coil navigation feature can be found in the video below:&lt;/p&gt;
+&lt;p&gt;The software has been developed since October, 2008 as part of the InVesalius project from the &lt;a href=&#34;https://www.cti.gov.br/en/invesalius&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Renato Archer Information Technology Center&lt;/a&gt; of the Ministry of Science and Technology, Brazil. InVesalius is written in Python 3 and is compatible with several models of spatial tracking devices, such as the &lt;a href=&#34;https://www.ndigital.com/medical/products/polaris-family/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NDI Polaris&lt;/a&gt;, &lt;a href=&#34;https://polhemus.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Polhemus&lt;/a&gt; Patriot, Isotrak, Fastrak, and &lt;a href=&#34;https://www.claronav.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ClaroNav&lt;/a&gt; MicronTracker Sx60.&lt;/p&gt;
+&lt;p&gt;The source code is hosted on &lt;a href=&#34;https://github.com/invesalius/invesalius3&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitHub&lt;/a&gt;. A tutorial on how to use the TMS coil navigation feature can be found in the video below:&lt;/p&gt;
 
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
   &lt;iframe src=&#34;https://www.youtube.com/embed/tobYoDxu6lw&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
@@ -549,16 +415,52 @@ Teachers should account for each student characteristics and design group activi
       <pubDate>Sun, 06 Sep 2020 00:00:00 +0000</pubDate>
       <guid>https://vhosouza.github.io/software/signalhunter/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Signal Hunter&lt;/strong&gt; is an open-source and free software developed using MATLAB 2014 (Mathworks, Natick, USA) for electrophysiological signal analysis. Research groups lack software that allows assisted processing and automatic tools to analyze electroencephalography (EEG) and electromyography (EMG) recordings. Therefore, Signal Hunter was created to provide a general graphical environment with basic tools that allow users to easily develop their functions and interfaces.&lt;/p&gt;
-&lt;p&gt;The software is hosted on 
-&lt;a href=&#34;https://github.com/biomaglab/signalhunter&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitHub&lt;/a&gt;. The instructions for installation, constribution, and use are described in the GitHub wiki page 
-&lt;a href=&#34;https://github.com/biomaglab/signalhunter/wiki&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The software is hosted on &lt;a href=&#34;https://github.com/biomaglab/signalhunter&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitHub&lt;/a&gt;. The instructions for installation, constribution, and use are described in the GitHub wiki page &lt;a href=&#34;https://github.com/biomaglab/signalhunter/wiki&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;The Signal Hunter has an intuitive user interface for semi-automatic signal processing.&lt;/p&gt;
 &lt;p&gt;Below, an example of motor evoked potentials by TMS in multiple sessions.&lt;/p&gt;
-&lt;p&gt;
-&lt;a href=&#34;https://github.com/biomaglab/signalhunter/wiki/Screenshots&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;https://vhosouza.github.io/media/signal-hunter-mep.png&#34; alt=&#34;Screenshot&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/biomaglab/signalhunter/wiki/Screenshots&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://vhosouza.github.io/media/signal-hunter-mep.png&#34; alt=&#34;Screenshot&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;and with full EMG recording and potentials splited into epochs:&lt;/p&gt;
-&lt;p&gt;
-&lt;a href=&#34;https://github.com/biomaglab/signalhunter/wiki/Screenshots&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;https://vhosouza.github.io/media/signal-hunter-epochs.png&#34; alt=&#34;Screenshot&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/biomaglab/signalhunter/wiki/Screenshots&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://vhosouza.github.io/media/signal-hunter-epochs.png&#34; alt=&#34;Screenshot&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -580,43 +482,32 @@ Teachers should account for each student characteristics and design group activi
 &lt;h2 id=&#34;institutions&#34;&gt;Institutions&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;
-&lt;p&gt;
-&lt;a href=&#34;http://www5.usp.br/english/?lang=en&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;University of São Paulo (USP)&lt;/strong&gt;&lt;/a&gt;, 2007 - 2018&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www5.usp.br/english/?lang=en&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;University of São Paulo (USP)&lt;/strong&gt;&lt;/a&gt;, 2007 - 2018&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;
-&lt;a href=&#34;http://www.aalto.fi/en/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Aalto University&lt;/strong&gt;&lt;/a&gt;, 2016 - 2017, 2018 - present&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.aalto.fi/en/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Aalto University&lt;/strong&gt;&lt;/a&gt;, 2016 - 2017, 2018 - present&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;funding-agencies&#34;&gt;Funding agencies&lt;/h2&gt;
 &lt;h3 id=&#34;past&#34;&gt;Past&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;Scientific initiation (2008 - 2011)&lt;/p&gt;
-&lt;p&gt;
-&lt;a href=&#34;http://cnpq.br&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;CNPq&lt;/strong&gt;&lt;/a&gt;, 2008 - 2009&lt;/p&gt;
-&lt;p&gt;
-&lt;a href=&#34;http://www.fapesp.br/en/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;FAPESP&lt;/strong&gt;&lt;/a&gt;, 2009 - 2011&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Master&amp;rsquo;s degree (2012 - 2014)&lt;/p&gt;
-&lt;p&gt;
-&lt;a href=&#34;http://www.capes.gov.br/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;CAPES&lt;/strong&gt;&lt;/a&gt;, 2012&lt;/p&gt;
-&lt;p&gt;
-&lt;a href=&#34;http://www.fapesp.br/en/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;FAPESP&lt;/strong&gt;&lt;/a&gt;, 2012 - 2014&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Doctoral degree (2014 - 2018)&lt;/p&gt;
-&lt;p&gt;
-&lt;a href=&#34;http://cnpq.br&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;CNPq&lt;/strong&gt;&lt;/a&gt;, 2014 - 2018&lt;/p&gt;
-&lt;p&gt;
-&lt;a href=&#34;http://em-smart2.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Erasmus Mundus Smart2 Project&lt;/strong&gt;&lt;/a&gt;, 2016 - 2017&lt;/p&gt;
-&lt;/li&gt;
+&lt;li&gt;Scientific initiation (2008 - 2011)&lt;/li&gt;
 &lt;/ul&gt;
+&lt;p&gt;&lt;a href=&#34;http://cnpq.br&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;CNPq&lt;/strong&gt;&lt;/a&gt;, 2008 - 2009&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.fapesp.br/en/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;FAPESP&lt;/strong&gt;&lt;/a&gt;, 2009 - 2011&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Master&amp;rsquo;s degree (2012 - 2014)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.capes.gov.br/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;CAPES&lt;/strong&gt;&lt;/a&gt;, 2012&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.fapesp.br/en/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;FAPESP&lt;/strong&gt;&lt;/a&gt;, 2012 - 2014&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Doctoral degree (2014 - 2018)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&#34;http://cnpq.br&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;CNPq&lt;/strong&gt;&lt;/a&gt;, 2014 - 2018&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://em-smart2.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Erasmus Mundus Smart2 Project&lt;/strong&gt;&lt;/a&gt;, 2016 - 2017&lt;/p&gt;
 &lt;h3 id=&#34;current&#34;&gt;Current&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;
-&lt;a href=&#34;https://jaes.fi/en/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Jane and Aatos Erkko Foundation&lt;/strong&gt;&lt;/a&gt;, 2018 - present&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://jaes.fi/en/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Jane and Aatos Erkko Foundation&lt;/strong&gt;&lt;/a&gt;, 2018 - present&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
@@ -667,140 +558,6 @@ Teachers should account for each student characteristics and design group activi
       <pubDate>Sat, 20 Apr 2019 00:00:00 +0000</pubDate>
       <guid>https://vhosouza.github.io/publication/method-mismatch/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Slides</title>
-      <link>https://vhosouza.github.io/slides/example/</link>
-      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://vhosouza.github.io/slides/example/</guid>
-      <description>&lt;h1 id=&#34;create-slides-in-markdown-with-academic&#34;&gt;Create slides in Markdown with Academic&lt;/h1&gt;
-&lt;p&gt;
-&lt;a href=&#34;https://sourcethemes.com/academic/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Academic&lt;/a&gt; | 
-&lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Efficiently write slides in Markdown&lt;/li&gt;
-&lt;li&gt;3-in-1: Create, Present, and Publish your slides&lt;/li&gt;
-&lt;li&gt;Supports speaker notes&lt;/li&gt;
-&lt;li&gt;Mobile friendly slides&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;controls&#34;&gt;Controls&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Next: &lt;code&gt;Right Arrow&lt;/code&gt; or &lt;code&gt;Space&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;Previous: &lt;code&gt;Left Arrow&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;Start: &lt;code&gt;Home&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;Finish: &lt;code&gt;End&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;Overview: &lt;code&gt;Esc&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;Speaker notes: &lt;code&gt;S&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;Fullscreen: &lt;code&gt;F&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;Zoom: &lt;code&gt;Alt + Click&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;
-&lt;a href=&#34;https://github.com/hakimel/reveal.js#pdf-export&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PDF Export&lt;/a&gt;: &lt;code&gt;E&lt;/code&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;code-highlighting&#34;&gt;Code Highlighting&lt;/h2&gt;
-&lt;p&gt;Inline code: &lt;code&gt;variable&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;Code block:&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;porridge = &amp;quot;blueberry&amp;quot;
-if porridge == &amp;quot;blueberry&amp;quot;:
-    print(&amp;quot;Eating...&amp;quot;)
-&lt;/code&gt;&lt;/pre&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;math&#34;&gt;Math&lt;/h2&gt;
-&lt;p&gt;In-line math: $x + y = z$&lt;/p&gt;
-&lt;p&gt;Block math:&lt;/p&gt;
-&lt;p&gt;$$
-f\left( x \right) = ;\frac{{2\left( {x + 4} \right)\left( {x - 4} \right)}}{{\left( {x + 4} \right)\left( {x + 1} \right)}}
-$$&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;fragments&#34;&gt;Fragments&lt;/h2&gt;
-&lt;p&gt;Make content appear incrementally&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;{{% fragment %}} One {{% /fragment %}}
-{{% fragment %}} **Two** {{% /fragment %}}
-{{% fragment %}} Three {{% /fragment %}}
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;Press &lt;code&gt;Space&lt;/code&gt; to play!&lt;/p&gt;
-&lt;p&gt;&lt;span class=&#34;fragment &#34; &gt;
-One 
-&lt;/span&gt;
-&lt;span class=&#34;fragment &#34; &gt;
-&lt;strong&gt;Two&lt;/strong&gt; 
-&lt;/span&gt;
-&lt;span class=&#34;fragment &#34; &gt;
-Three 
-&lt;/span&gt;&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;A fragment can accept two optional parameters:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;code&gt;class&lt;/code&gt;: use a custom style (requires definition in custom CSS)&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;weight&lt;/code&gt;: sets the order in which a fragment appears&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;speaker-notes&#34;&gt;Speaker Notes&lt;/h2&gt;
-&lt;p&gt;Add speaker notes to your presentation&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;{{% speaker_note %}}
-- Only the speaker can read these notes
-- Press `S` key to view
-{{% /speaker_note %}}
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;Press the &lt;code&gt;S&lt;/code&gt; key to view the speaker notes!&lt;/p&gt;
-&lt;aside class=&#34;notes&#34;&gt;
-  &lt;ul&gt;
-&lt;li&gt;Only the speaker can read these notes&lt;/li&gt;
-&lt;li&gt;Press &lt;code&gt;S&lt;/code&gt; key to view&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;/aside&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;themes&#34;&gt;Themes&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;black: Black background, white text, blue links (default)&lt;/li&gt;
-&lt;li&gt;white: White background, black text, blue links&lt;/li&gt;
-&lt;li&gt;league: Gray background, white text, blue links&lt;/li&gt;
-&lt;li&gt;beige: Beige background, dark text, brown links&lt;/li&gt;
-&lt;li&gt;sky: Blue background, thin dark text, blue links&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-&lt;ul&gt;
-&lt;li&gt;night: Black background, thick white text, orange links&lt;/li&gt;
-&lt;li&gt;serif: Cappuccino background, gray text, brown links&lt;/li&gt;
-&lt;li&gt;simple: White background, black text, blue links&lt;/li&gt;
-&lt;li&gt;solarized: Cream-colored background, dark green text, blue links&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-
-&lt;section data-noprocess data-shortcode-slide
-  
-      
-      data-background-image=&#34;/media/boards.jpg&#34;
-  &gt;
-
-&lt;h2 id=&#34;custom-slide&#34;&gt;Custom Slide&lt;/h2&gt;
-&lt;p&gt;Customize the slide style and background&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;{{&amp;lt; slide background-image=&amp;quot;/media/boards.jpg&amp;quot; &amp;gt;}}
-{{&amp;lt; slide background-color=&amp;quot;#0000FF&amp;quot; &amp;gt;}}
-{{&amp;lt; slide class=&amp;quot;my-style&amp;quot; &amp;gt;}}
-&lt;/code&gt;&lt;/pre&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;custom-css-example&#34;&gt;Custom CSS Example&lt;/h2&gt;
-&lt;p&gt;Let&amp;rsquo;s make headers navy colored.&lt;/p&gt;
-&lt;p&gt;Create &lt;code&gt;assets/css/reveal_custom.css&lt;/code&gt; with:&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&#34;language-css&#34;&gt;.reveal section h1,
-.reveal section h2,
-.reveal section h3 {
-  color: navy;
-}
-&lt;/code&gt;&lt;/pre&gt;
-&lt;hr&gt;
-&lt;h1 id=&#34;questions&#34;&gt;Questions?&lt;/h1&gt;
-&lt;p&gt;
-&lt;a href=&#34;https://spectrum.chat/academic&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ask&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;
-&lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
-</description>
     </item>
     
     <item>
@@ -860,27 +617,6 @@ Three
     </item>
     
     <item>
-      <title>External Project</title>
-      <link>https://vhosouza.github.io/project/external-project/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://vhosouza.github.io/project/external-project/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Internal Project</title>
-      <link>https://vhosouza.github.io/project/internal-project/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://vhosouza.github.io/project/internal-project/</guid>
-      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
-&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
-&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
-&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
-&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Inter-institutional protocol describing the use of three-dimensional printing for surgical planning in a patient with childhood epilepsy: From 3D modeling to neuronavigation</title>
       <link>https://vhosouza.github.io/publication/inter-protocol-3d/</link>
       <pubDate>Thu, 08 Jan 2015 00:00:00 +0000</pubDate>
@@ -901,6 +637,22 @@ Three
       <link>https://vhosouza.github.io/publication/vector-mri-tms/</link>
       <pubDate>Sat, 12 Sep 2009 00:00:00 +0000</pubDate>
       <guid>https://vhosouza.github.io/publication/vector-mri-tms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://vhosouza.github.io/admin/config.yml</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vhosouza.github.io/admin/config.yml</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Experience page</title>
+      <link>https://vhosouza.github.io/experiences/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vhosouza.github.io/experiences/</guid>
       <description></description>
     </item>
     
