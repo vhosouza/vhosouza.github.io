@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>insula | Victor H. Souza</title>
+    <link>https://vhosouza.github.io/tag/insula/</link>
+      <atom:link href="https://vhosouza.github.io/tag/insula/index.xml" rel="self" type="application/rss+xml" />
+    <description>insula</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Feb 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://vhosouza.github.io/media/icon_hu8d7500d2420c0000b894f0459714a4ed_195899_512x512_fill_lanczos_center_3.png</url>
+      <title>insula</title>
+      <link>https://vhosouza.github.io/tag/insula/</link>
+    </image>
+    
+    <item>
+      <title>Transcranial magnetic stimulation for neuromodulation of the operculo‐insular cortex in humans</title>
+      <link>https://vhosouza.github.io/publication/zugaib-2018/</link>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://vhosouza.github.io/publication/zugaib-2018/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

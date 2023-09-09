@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>MEP amplitude | Victor H. Souza</title>
+    <link>https://vhosouza.github.io/tag/mep-amplitude/</link>
+      <atom:link href="https://vhosouza.github.io/tag/mep-amplitude/index.xml" rel="self" type="application/rss+xml" />
+    <description>MEP amplitude</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jul 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://vhosouza.github.io/media/icon_hu8d7500d2420c0000b894f0459714a4ed_195899_512x512_fill_lanczos_center_3.png</url>
+      <title>MEP amplitude</title>
+      <link>https://vhosouza.github.io/tag/mep-amplitude/</link>
+    </image>
+    
+    <item>
+      <title>The surface electrode placement determines the magnitude of motor potential evoked by transcranial magnetic stimulation</title>
+      <link>https://vhosouza.github.io/publication/garcia-2023/</link>
+      <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://vhosouza.github.io/publication/garcia-2023/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

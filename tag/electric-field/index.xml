@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>electric field | Victor H. Souza</title>
+    <link>https://vhosouza.github.io/tag/electric-field/</link>
+      <atom:link href="https://vhosouza.github.io/tag/electric-field/index.xml" rel="self" type="application/rss+xml" />
+    <description>electric field</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Mar 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://vhosouza.github.io/media/icon_hu8d7500d2420c0000b894f0459714a4ed_195899_512x512_fill_lanczos_center_3.png</url>
+      <title>electric field</title>
+      <link>https://vhosouza.github.io/tag/electric-field/</link>
+    </image>
+    
+    <item>
+      <title>TMS with fast and accurate electronic control: Measuring the orientation sensitivity of corticomotor pathways</title>
+      <link>https://vhosouza.github.io/publication/souza-2022/</link>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://vhosouza.github.io/publication/souza-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Trade-off between stimulation focality and the number of coils in multi-locus transcranial magnetic stimulation</title>
+      <link>https://vhosouza.github.io/publication/nurmi-2021/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://vhosouza.github.io/publication/nurmi-2021/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

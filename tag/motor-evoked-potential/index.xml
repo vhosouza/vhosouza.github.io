@@ -5,12 +5,38 @@
     <link>https://vhosouza.github.io/tag/motor-evoked-potential/</link>
       <atom:link href="https://vhosouza.github.io/tag/motor-evoked-potential/index.xml" rel="self" type="application/rss+xml" />
     <description>Motor evoked potential</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 06 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 09 Sep 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://vhosouza.github.io/media/icon_hu8d7500d2420c0000b894f0459714a4ed_123720_512x512_fill_lanczos_center_3.png</url>
+      <url>https://vhosouza.github.io/media/icon_hu8d7500d2420c0000b894f0459714a4ed_195899_512x512_fill_lanczos_center_3.png</url>
       <title>Motor evoked potential</title>
       <link>https://vhosouza.github.io/tag/motor-evoked-potential/</link>
     </image>
+    
+    <item>
+      <title>DELMEP</title>
+      <link>https://vhosouza.github.io/software/delmep/</link>
+      <pubDate>Sat, 09 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://vhosouza.github.io/software/delmep/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;DELMEP&lt;/strong&gt; is a deep learning-based Python code to automate the annotation of motor evoked potential (MEP) latencies. It pre-processes the MEP and employs a pre-trained neural network to estimate its latency. The pre-processing is composed of the following steps: (1) smoothing the MEP with a moving average filter to reduce the high-frequency noise; (2) centering the MEP to reduce the impact of low-frequency noise; (3) normalizing the MEP so that its minimum and maximum values correspond to 0 and 1, respectively, to mitigate the effects of the large variations in amplitude.&lt;/p&gt;
+&lt;p&gt;The software is hosted on &lt;a href=&#34;https://github.com/connect2brain/delmep&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitHub&lt;/a&gt; along with instructions for use.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The surface electrode placement determines the magnitude of motor potential evoked by transcranial magnetic stimulation</title>
+      <link>https://vhosouza.github.io/publication/garcia-2023/</link>
+      <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://vhosouza.github.io/publication/garcia-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TMS with fast and accurate electronic control: Measuring the orientation sensitivity of corticomotor pathways</title>
+      <link>https://vhosouza.github.io/publication/souza-2022/</link>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://vhosouza.github.io/publication/souza-2022/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Signal Hunter</title>
@@ -68,26 +94,18 @@
     </item>
     
     <item>
-      <title>Motor potential evoked by transcranial magnetic stimulation depends on the placement protocol of recording electrodes: a pilot study</title>
-      <link>https://vhosouza.github.io/publication/tms-electrode-placement/</link>
-      <pubDate>Sat, 20 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>https://vhosouza.github.io/publication/tms-electrode-placement/</guid>
+      <title>Lateralized asymmetries in distribution of muscular evoked responses: An evidence of specialized motor control over an intrinsic hand muscle</title>
+      <link>https://vhosouza.github.io/publication/souza-lateralized-2018/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>https://vhosouza.github.io/publication/souza-lateralized-2018/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Can the recording of motor potentials evoked by transcranial magnetic stimulation be optimized?</title>
-      <link>https://vhosouza.github.io/publication/can-mep-tms/</link>
-      <pubDate>Tue, 15 Aug 2017 00:00:00 +0000</pubDate>
-      <guid>https://vhosouza.github.io/publication/can-mep-tms/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Effect of TMS coil orientation on the spatial distribution of motor evoked potentials in an intrinsic hand muscle</title>
-      <link>https://vhosouza.github.io/publication/effect-tms-orient/</link>
+      <title>Can the Recording of Motor Potentials Evoked by Transcranial Magnetic Stimulation Be Optimized?</title>
+      <link>https://vhosouza.github.io/publication/garcia-2017/</link>
       <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
-      <guid>https://vhosouza.github.io/publication/effect-tms-orient/</guid>
+      <guid>https://vhosouza.github.io/publication/garcia-2017/</guid>
       <description></description>
     </item>
     

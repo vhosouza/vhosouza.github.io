@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>focality | Victor H. Souza</title>
+    <link>https://vhosouza.github.io/tag/focality/</link>
+      <atom:link href="https://vhosouza.github.io/tag/focality/index.xml" rel="self" type="application/rss+xml" />
+    <description>focality</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Dec 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://vhosouza.github.io/media/icon_hu8d7500d2420c0000b894f0459714a4ed_195899_512x512_fill_lanczos_center_3.png</url>
+      <title>focality</title>
+      <link>https://vhosouza.github.io/tag/focality/</link>
+    </image>
+    
+    <item>
+      <title>Trade-off between stimulation focality and the number of coils in multi-locus transcranial magnetic stimulation</title>
+      <link>https://vhosouza.github.io/publication/nurmi-2021/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://vhosouza.github.io/publication/nurmi-2021/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
